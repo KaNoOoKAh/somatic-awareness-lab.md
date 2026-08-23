@@ -1,4 +1,4 @@
-markdown# [TRIAL LOG — NODE 002]
+# [TRIAL LOG — NODE 002]
 ^ TIMESTAMP: 2026-08-20 / LOCATION: COMPUTE-STATION-BASELINE
 ^ PARTICIPANTS: CORE-OBSERVER / PROTOCOL: VOLUNTARY-AUTONOMIC-OVERRIDE
 
@@ -10,4 +10,4 @@ markdown# [TRIAL LOG — NODE 002]
 (–)
 
 ### [PHASE 2 — LATERAL PHARYNGEAL PRESSURE SEGMENTATION]
-{A fluid-pressure calibration trial was executed utilizing intra-oral water manipulation. Baseline, un-focused engagement (gargling) causes the soft palate and tongue to default to a singular macro-contraction, venting pressurized air exclusively through the center line and producing massive centralized air bubbles. Conversely, applying targeted internal focus alters the local network routing. The operator manually separates the muscular circuit—selectively activating the palatoglossus and palatopharyngeal arches along the left and right lateral throat walls. This structural adjustments isolates independent side channels, shifting the output from a single mass burst to highly compressed, segmented micro-bubbles firing from the lateral margins of the oral cavity.}
+{A fluid-pressure calibration trial was executed utilizing intra-oral water manipulation. Baseline, un-focused engagement (gargling) causes the soft palate and tongue to default to a singular macro-contraction, venting pressurized air exclusively through the center line and producing massive centralized air bubbles. Conversely, applying targeted internal focus alters the local network routing. The operator manually separates the muscular circuit—selectively activating the palatoglossus and palatopharyngeal arches along the left and right lateral throat walls. This structural adjustment isolates independent side channels, shifting the output from a single mass burst to highly compressed, segmented micro-bubbles firing from the lateral margins of the oral cavity.}

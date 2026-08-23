@@ -1,6 +1,4 @@
-markdown# 
-
-Somatic Connectivity Theory: Technical Appendix
+# Somatic Connectivity Theory: Technical Appendix
 
 ## Neurobiological Analysis, Autonomic Dynamics, and Functional Biomechanics
 

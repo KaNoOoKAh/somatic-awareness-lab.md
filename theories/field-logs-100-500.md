@@ -1,6 +1,4 @@
-markdown# 
-
-Somatic Connectivity Theory: Chronological Field Logs
+# Somatic Connectivity Theory: Chronological Field Logs
 
 ## Data Tracking Range: Logs 100–500
 
