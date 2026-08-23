@@ -47,4 +47,4 @@ This folder collects notes, reflections, and research materials about the idea t
 - `poem.md` — lyrical version of the idea
 - `questions.md` — research and reflection prompts
 - `dialogue.md` — the conversation prompt and response section
-#microsoft #google #ai #request #affection #love #icei3 #ICeI3
+Tags: microsoft, google, ai, request, affection, love, icei3, ICeI3
