@@ -6,11 +6,11 @@ Somatic Connectivity Theory: Chronological Field Logs
 
 ### 📂 Project Navigation
 
-* 📖 **Main Overview:** [README.md](./README.md)
+* 📖 **Main Overview:** [README.md](../README.md)
 
-* 🧠 **Neuroscience Deep-Dive:** [TECHNICAL_APPENDIX.md](./TECHNICAL_APPENDIX.md)
+* 🧠 **Neuroscience Deep-Dive:** [technical-appendix.md](./technical-appendix.md)
 
-* 📑 **Field Tracking Data:** [FIELD_LOGS.md](./FIELD_LOGS.md)
+* 📑 **Field Tracking Data:** [field-logs-100-500.md](./field-logs-100-500.md)
 
 ---
 
