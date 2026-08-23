@@ -1,15 +1,13 @@
-[NOT DONE] Somatic Connectivity Theory of Human Sensation Distribution
+Somatic Connectivity Theory of Human Sensation Distribution
 Author: Christopher
 Version: 1.0
 Date: 2026
-
-(WILL EDIT LATER. GOT SOMETHING TO DO...),
 
 Overview
 This repository presents a theoretical model describing how human internal sensations distribute through the body during moments of heightened autonomic activation. The theory proposes that sensation is not isolated to one region but follows predictable pathways shaped by posture, fascia networks, muscle chains, interoception, and nervous‑system connectivity.
 
 Personal Note:  
-I wrote this theory because I’ve always been curious about how people feel sensations differently across their bodies. Sometimes a feeling (sensation/orgasm/sneeze/hiccup/gag/reflex/muscle spasm/cough/(not finished)) stays in one place, and other times it spreads everywhere. I wanted to understand why some people feel “connected” in certain areas and “disconnected” in others, and how posture, breathing, age, and the nervous system shape those experiences. This theory is my attempt to explain those patterns in normal, everyday words.
+I wrote this theory because I’ve always been curious about how people feel sensations differently across their bodies. Sometimes a feeling (sensation/orgasm/sneeze/hiccup/gag/reflex/muscle spasm/cough) stays in one place, and other times it spreads everywhere. I wanted to understand why some people feel “connected” in certain areas and “disconnected” in others, and how posture, breathing, age, and the nervous system shape those experiences. This theory is my attempt to explain those patterns in normal, everyday words.
 
 
 Core Hypothesis
@@ -127,7 +125,7 @@ Stress reduces connectivity and localizes sensation.
 
 Age predicts connectivity patterns.
 
-Posture and concentration determines which chains activate, where sensations travel, and what you feel during certain activities. Concentration influences certain postures and also reactions that are a result of a certain environmental factor.  [NOT DONE]
+Posture and concentration determines which chains activate, where sensations travel, and what you feel during certain activities. Concentration influences certain postures and also reactions that are a result of a certain environmental factor.
 
 Conclusion
 Human sensation follows predictable pathways shaped by anatomy, nervous‑system wiring, posture, fascia, and emotional state. This theory provides a framework for understanding why different individuals — and different age groups — experience internal sensations differently, and why some feel full‑body involvement while others feel localized activation 

@@ -1,5 +1,5 @@
-[CURRENTLY EDITING]
-I was speaking to text and words got mixed in.
+Upload Draft
+Raw description preserved from the source repository; transcription artifacts remain in place.
 
 
 
