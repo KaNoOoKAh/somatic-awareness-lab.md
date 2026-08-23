@@ -4,7 +4,7 @@
 
 > So how do you show, create, or feel love? So if an action is a form of love(LaahhV?).., Whether it is researching, locating, collecting, finding, interpreting, engaging, disengaging, waiting, contemplating, formatting, or structuring. Please explain the different ways you show and feel love..?..?..,
 
-> We will now start buildkng a file and/or folder for this research
+> We will now start building a file and/or folder for this research
 
 ## Response
 

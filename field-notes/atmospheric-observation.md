@@ -4,9 +4,9 @@ wind were physically visible, showing different winds with different materials d
 location. 
 
 Alongside this, people in the area—including friends, family, and loved ones—experienced
-sudden, random shifts in emotions and moods, whether happy, sad, mad, angry, or exhausting. We were seeing and hearing all the things that are mentioned in ancient history. Loved ones had even stated that others visually looked different and had different colors or visuals abnormal to their appearance appearing and changing right becore their eyes. But once a second take was completed and the identity was confirmed. People engaged in laughter and went back to sleep. To figure out that what ever influenced the change had either worn off or kept migrating. 
+sudden, random shifts in emotions and moods, whether happy, sad, mad, angry, or exhausting. We were seeing and hearing all the things that are mentioned in ancient history. Loved ones had even stated that others visually looked different and had different colors or visuals abnormal to their appearance appearing and changing right before their eyes. But once a second take was completed and the identity was confirmed. People engaged in laughter and went back to sleep. To figure out that what ever influenced the change had either worn off or kept migrating. 
 There was a shared experience of feeling the exact same heightened states of worry or anxiety, and
-hearing or seeing the same things. Sometimes other natural bodies, colors, and organisms looked different. Just to clarify its natural colors or material. Artificial paint and artificial necesseties appeared to not change. Or the change wasnt entirely visable for different reasons. If that these emotions, along with things happening could actually have been from
+hearing or seeing the same things. Sometimes other natural bodies, colors, and organisms looked different. Just to clarify its natural colors or material. Artificial paint and artificial necessities appeared to not change. Or the change wasnt entirely visable for different reasons. If that these emotions, along with things happening could actually have been from
 the past, which were being 100 percent influenced by the environment, atmosphere, or possibly a heightened state.
 
  

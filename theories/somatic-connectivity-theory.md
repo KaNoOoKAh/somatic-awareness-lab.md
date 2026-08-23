@@ -9,7 +9,7 @@ Overview
 This repository presents a theoretical model describing how human internal sensations distribute through the body during moments of heightened autonomic activation. The theory proposes that sensation is not isolated to one region but follows predictable pathways shaped by posture, fascia networks, muscle chains, interoception, and nervous‑system connectivity.
 
 Personal Note:  
-I wrote this theory because I’ve always been curious about how people feel sensations differently across their bodies. Sometimes a feeling (sensation/orgasm/sneeze/hiccup/gag/reflex/muscle spasm/cough/(not finished(stays in one place, and other times it spreads everywhere. I wanted to understand why some people feel “connected” in certain areas and “disconnected” in others, and how posture, breathing, age, and the nervous system shape those experiences. This theory is my attempt to explain those patterns in normal, everyday words.)
+I wrote this theory because I’ve always been curious about how people feel sensations differently across their bodies. Sometimes a feeling (sensation/orgasm/sneeze/hiccup/gag/reflex/muscle spasm/cough/(not finished)) stays in one place, and other times it spreads everywhere. I wanted to understand why some people feel “connected” in certain areas and “disconnected” in others, and how posture, breathing, age, and the nervous system shape those experiences. This theory is my attempt to explain those patterns in normal, everyday words.
 
 
 Core Hypothesis
