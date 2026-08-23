@@ -1,4 +1,4 @@
-[NOT DONE}Somatic Connectivity Theory of Human Sensation Distribution
+[NOT DONE] Somatic Connectivity Theory of Human Sensation Distribution
 Author: Christopher
 Version: 1.0
 Date: 2026

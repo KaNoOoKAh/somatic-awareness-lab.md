@@ -7,7 +7,6 @@ Somatic Connectivity Theory: Technical Appendix
 ### 📂 Project Navigation
 
 * 📖 **Main Overview:** [README.md](../README.md)
-* 🧠 **Neuroscience Deep-Dive:** [technical-appendix.md](./technical-appendix.md)
 * 📑 **Field Tracking Data:** [field-logs-100-500.md](./field-logs-100-500.md)
 
 ---

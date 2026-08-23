@@ -45,7 +45,7 @@ To verify these changes, I actively engaged with individuals in my community who
 
 Environmental and Structural Analysis: 
 
-I tracked these visual anomalies across multiple environments—ranging from standard digital media (even in People Magazine photos) and casual public spaces to structured corporate, recreational venues,, and places of employment—to analyze how different settings and standards of conduct alter a person's physical and mental awareness.
+I tracked these visual anomalies across multiple environments—ranging from standard digital media (even in People Magazine photos) and casual public spaces to structured corporate, recreational venues, and places of employment—to analyze how different settings and standards of conduct alter a person's physical and mental awareness.
 
 Part III: Theoretical Framework and Global Priorities
 

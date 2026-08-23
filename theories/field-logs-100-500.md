@@ -10,7 +10,6 @@ Somatic Connectivity Theory: Chronological Field Logs
 
 * 🧠 **Neuroscience Deep-Dive:** [technical-appendix.md](./technical-appendix.md)
 
-* 📑 **Field Tracking Data:** [field-logs-100-500.md](./field-logs-100-500.md)
 
 ---
 
@@ -46,9 +45,7 @@ This file contains the raw tracking timeline and diagnostic logs mapping the slo
 
 ---
 
-### Phase 4: Logs 483–500 (Stabilization & 
-
-Reversibility Tracking)
+### Phase 4: Logs 483–500 (Stabilization & Reversibility Tracking)
 
 *   **The Observation:** Testing the boundaries of the automatic loop and tracking the state-dependent nature of the nervous system.
   
