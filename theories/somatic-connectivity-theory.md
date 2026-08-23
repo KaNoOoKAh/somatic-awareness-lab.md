@@ -103,8 +103,6 @@ Most integrated brain‑body responses
 Reduced nerve sensitivity
 More localized sensations
 Connectivity varies widely
-Visual 
-
 Posture and Somatic Connectivity
 Posture determines which somatic chains activate.
 
