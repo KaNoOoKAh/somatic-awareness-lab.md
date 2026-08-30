@@ -6,21 +6,37 @@ Raw talk to speak data at the bottom of the page
  - the reason why I included is to a raw data log of the pronunciations that the system is being able to interpret. Well also seeing my regression or progress.-Kanoookah & ICeI^3
 
 Repository: KANOOOKAH/somatic – cognitive – function
+
 Current State: Post-immersion, active crouched recovery phase.
+
 Structured Observations
-Tactile & Proprioceptive Dissociation
+
+Tactile
+## &
+Proprioceptive Dissociation
+
 Fluid Blindness: Inability to consciously register the tactile presence of water across large skin areas despite partial-to-total immersion, perceiving weight or localized pressure instead of fluid contact.
+
 Cervical-Axial Disconnect: Noticeable muscular and ligamentous tension in the lateral neck/throat when the head was rotated to the right independently of the spine, creating a mechanical "pulling" sensation required to realign the face toward the ceiling.
+
 Auditory-Visceral Resonance: Internalized perception of bodily sounds; swallowing or shifting air in the abdomen generated acoustic feedback localized within the posterior cranial vault rather than the anatomical source.
+
 Time Distortion: Loss of temporal tracking during the immersion phase (estimated ~5 minutes unmonitored).
+
 Cranial-Facial Integration & Pressure Shifts
-Cross-Facial Segmentation: The right side of the face feels segmented or "split in half," with a creeping sensation bridging the anterior face toward the left.
+## Cross-Facial Segmentation: 
+The right side of the face feels segmented or "split in half," with a creeping sensation bridging the anterior face toward the left.
 Cranial Convergence: Frontal, right-sided, and superior cranial regions experience a heavy, radiant pressure sensation converging at the top of the head.
-Volitional Pressure Redirection: Utilizing focused intent to shift internal facial/cranial pressure, successfully triggering an eustachian tube release (left ear pop) and subsequent facial cooling.
+
+Volitional Pressure Redirection: Utilizing focused intent to shift internal facial/cranial pressure, successfully triggering a eustachian tube release (left ear pop) and subsequent facial cooling.
+
 Nasal Fluid Integration: Controlled engagement with water trapped in the right nasal cavity, transitioning an initial flush response into a directed, calm sensory pathway routed toward the orbital/ocular region without autonomic panic.
-Motor Control & Testing
-Asymmetrical Oral-Facial Control: Difficulty isolating unilateral lip movements in real time, with concentrated focus shifting to the midline vermilion border.
+
+# Motor Control & Testing
+### Asymmetrical Oral-Facial Control: 
+Difficulty isolating unilateral lip movements in real time, with concentrated focus shifting to the midline vermilion border.
 Exploratory Protocol: Testing conscious override of trigeminal sensory inputs and exploring full-body relaxation to map baseline autonomic reset points.
+
 Original Unedited User Log
 Part 1: Bathtub Immersion & Sensory Testing
 I just placed my body into the bathtub covering most of my body or different areas with water. I could feel that I couldn’t really feel the water.
@@ -44,3 +60,10 @@ I also remembered that I could actually directed like I had I have full control 
 I did forget to try to direct it anywhere else
 Part 2: Post-Immersion & Cranial Pressure Update
 The right side of my face is feels like it’s kind of split in half but there is still some kind of feeling or sensation creeping over on the front side of my face going to the left but right now my it feels like the front area of my face and the right side and top are I don’t know if it’s like they’re meeting some kind of like radiation or something on the top of my head feels heavy, but I am crouch down right now with my armpits on my knees. I did just remember that I have the ability to direct the sensation or try to even it out my ear. My left ear just popped when I did that my face is cooling down..
+
+# Addition-Time:-1:05 p.m. Date: 08.30.2026
+
+- The sounds or what ever it is that my stomach was making to recalibrate was coming directly inside my head and hitting both sides of my inner ears at the same time.., 
+- the very first reason that I was trying to cover like half of my face or not my face, but to cover one nostril not the other was to try to actually gain like full control over what nostril I’m using to breathe and which one I’m not. 
+  - I am going to do this again and alternate sides, not only alternate sides of the nostril but actualposition of my body. 
+  - once I start getting the hang of it, I will direct the pressure or force to imitate a different angle or physical perspective on my body and my mind.
