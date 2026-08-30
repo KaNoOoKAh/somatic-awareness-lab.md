@@ -17,3 +17,8 @@ This repository is organized into folders that reflect the full lifecycle of res
 | [`07-resources/`](07-resources/) | References, tools, papers, and templates |
 
 Each folder contains its own `README.md` with guidance on what belongs there and how to use it.
+
+Personal note: Create a layout in order to keep your mind and body in a state of understanding. If you get confused or lose concentration, do not look at the layout you made. 
+# RESET  
+  - Trust and commit that once your mind and body are in top shape, and not back into shape. Everything will start looking vibrant, you will understand every conceptual feeling and emotion and not faulter or get scared.
+  - I’m trying to find out what actual genetic degradation is. I don’t think it’s possible, I don’t think memory loss is a real thing. Science proves that it’s a process that isn’t being used.. , -ICeI^3
