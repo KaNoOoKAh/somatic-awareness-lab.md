@@ -1,5 +1,9 @@
 Date: Sunday, August 30, 26 Location: Oahu, Honolulu, Hawaii
 
+# EDIT 
+: The true reason I decided to submerge myself was to create an area filled with not only water, but some of the nutritional elements we remove when processing our water. 
+ - I wanted to help my body be the host it’s scientifically and medically proven to be. that’s all I’m saying I ain’t saying shit else 💩..,LOl-ICeI3_sEd_yesSUh..’G-NgHt-ShaDoW’
+
 ## Somatosensory & Proprioceptive Mapping: Immersion and Cranial Pressure Log
 
 Raw talk to speak data at the bottom of the page
