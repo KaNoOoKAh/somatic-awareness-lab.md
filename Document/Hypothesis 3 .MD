@@ -13,3 +13,6 @@ Edit - Is the concentration of different nutrients or matter that our body is ma
   - Figure out how to apply that amount of force during certain stages of consumption and distribution. 
 
 * Find out what certain elements or nutrition feels like when consumed and touched when applying different types and directions of force.
+
+## Weight Distribution and Power Application 
+- Elements?!
