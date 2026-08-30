@@ -20,6 +20,10 @@ Each folder contains its own `README.md` with guidance on what belongs there and
 
 Personal note: Create a layout in order to keep your mind and body in a state of understanding. If you get confused or lose concentration, do not look at the layout you made. 
 
+personal opinionated theory- We know what’s connected to what, what needs what to work, it’s time we figure out what that means. 
+  - I’m thinking if I force myself to adapt and try certain things. I can find out what nutrition or elements actually do for the system I’m in complete control of.
+    Instead of leaving it up to a system that has no control or direction. But mainly no connection to or help/understanding from the mind in control of it. 
+
 
 # RESET  
   - Trust and commit that once your mind and body are in top shape, and not back into shape. Everything will start looking vibrant, you will understand every conceptual feeling and emotion and not faulter or get scared.
