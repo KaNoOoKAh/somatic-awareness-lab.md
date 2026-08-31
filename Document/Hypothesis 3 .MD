@@ -16,3 +16,4 @@ Edit - Is the concentration of different nutrients or matter that our body is ma
 
 ## Weight Distribution and Power Application 
 - Elements?!
+# THIS IS RETARDED THIS IS EXACTLY WHAT IVE BEEN PRACTICING AND DOING AND EVERYONE TELLS ME IM AN IDIOT. 
