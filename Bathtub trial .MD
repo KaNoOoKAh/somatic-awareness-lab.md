@@ -1,15 +1,11 @@
 Date: Sunday, August 30, 26 Location: Oahu, Honolulu, Hawaii
 
-# EDIT 
-: The true reason I decided to submerge myself was to create an area filled with not only water, but some of the nutritional elements we remove when processing our water. 
- - I wanted to help my body be the host it’s scientifically and medically proven to be. that’s all I’m saying I ain’t saying shit else 💩..,LOl-ICeI3_sEd_yesSUh..’G-NgHt-ShaDoW’
-
-
-
 ## Somatosensory & Proprioceptive Mapping: Immersion and Cranial Pressure Log
 
 Raw talk to speak data at the bottom of the page
- - the reason why I included is to a raw data log of the pronunciations that the system is being able to interpret. Well also seeing my regression or progress.-Kanoookah & ICeI^3
+ - the reason why I included is to a raw data log of the pronunciations that the system is being able to interpret. 
+ - To also see my regression or progress in real time. It gives me a real idea of the amount of activity I need to complete before being able to talk and think normally. 
+ - What ever is causing my symptoms is also causing other organisms confusion. I truly believe this is one of the main reasons many people and life forms are dying and suffering. -Kanoookah & ICeI^3
 
 Repository: KANOOOKAH/somatic – cognitive – function
 
