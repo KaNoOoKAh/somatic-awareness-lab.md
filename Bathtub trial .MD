@@ -44,12 +44,12 @@ Controlled engagement with water trapped in the right nasal cavity, transitionin
 ### Motor Control & Testing
 ### Asymmetrical Oral-Facial Control: 
 Difficulty isolating unilateral lip movements in real time, with concentrated focus shifting to the midline vermilion border.
-Exploratory Protocol: 
+### Exploratory Protocol: 
 
 Testing conscious override of trigeminal sensory inputs and exploring full-body relaxation to map baseline autonomic reset points.
 
-Original Unedited User Log
-###Part 1: Bathtub Immersion & Sensory Testing
+### Original Unedited User Log
+####Part 1: Bathtub Immersion & Sensory Testing
 
 I just placed my body into the bathtub covering most of my body or different areas with water. I could feel that I couldn’t really feel the water.
 
