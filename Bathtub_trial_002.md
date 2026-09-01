@@ -14,7 +14,7 @@ markdown# 🛁 BATHTUB TRIAL 002: SOMATOSENSORY FLUID RESISTANCE & ALTERED AIRWA
 ### Phase I: Immersion & Boundary Localization (0-1 Minutes)
 - **Fluid Blindness Replication:** Reconfirmed the baseline "fluid blindness" phenomenon identified on August 30, 2026. 
 - **Sensation Threshold:** The body remained unable to consciously process tactile ambient water pressure across fully submerged skin surfaces. Tactile awareness was strictly limited to the surface tension boundary (the 1-dimensional "line of the water").
-- **State Comparison:** General somatic relaxation levels were significantly lower during this morning observation compared to the deeper, late-day relaxation state achieved during the previous trial.
+- **State Comparison:** General somatic relaxation levels were significantly lower during this first observation compared to this early morning trial.
 
 ### Phase II: Rotational Submersion & Asymmetric Airway Blockage
 - **Right Nostril Inundation:** Upon turning the head, the right nostril fully filled with water. This is the investigator's chronically restricted/blocked airway pathway.
