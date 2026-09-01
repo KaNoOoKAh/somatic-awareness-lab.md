@@ -20,7 +20,7 @@ markdown# 🛁 BATHTUB TRIAL 002: SOMATOSENSORY FLUID RESISTANCE & ALTERED AIRWA
 - **Right Nostril Inundation:** Upon turning the head, the right nostril fully filled with water. This is the investigator's chronically restricted/blocked airway pathway.
 - **Inhalation Failure:** With the right nostril flooded and the left nostril completely elevated above the waterline, conscious attempts to execute a nasal inhalation failed completely. Airway passage was closed despite volitional effort.
 - **Asymmetric Sensation & Reflexive Distress:** Rotating the head to allow water to trickle into the left nostril immediately triggered a localized sensory panic response (the "drowning/protective reflex"), despite the fluid not reaching the posterior nasopharynx. 
-- **Somatic Mitigation:** The investigator successfully aborted the panic spike by scrunching the facial musculature and deliberately dropping systemic muscle tension. Under immersion, identifying and neutralizing localized tension vectors proved highly efficient, causing the noxious sensation to subside completely.
+- **Somatic Mitigation:** The investigator successfully aborted the panic spike by un-scrunching the facial musculature and deliberately dropping systemic muscle tension. Under immersion, identifying and neutralizing localized tension vectors proved highly efficient, causing the noxious sensation to subside completely.
 
 ### Phase III: Vertical Inversion & Mouth-Breathing Pressure Test
 - **Postural Maneuver:** Transferred to a kneeling posture, transitioning the head to a near-vertical downward tilt with the crown touching the bottom of the tub.
