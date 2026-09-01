@@ -15,7 +15,7 @@ markdown# 🛁 BATHTUB TRIAL 002: SOMATOSENSORY FLUID RESISTANCE & ALTERED AIRWA
 - **Fluid Blindness Replication:** Reconfirmed the baseline "fluid blindness" phenomenon identified on August 30, 2026. 
 - **Sensation Threshold:** The body remained unable to consciously process tactile ambient water pressure across fully submerged skin surfaces. Tactile awareness was strictly limited to the surface tension boundary (the 1-dimensional "line of the water").
 - **State Comparison:** General somatic relaxation levels were significantly lower during this first observation compared to this early morning trial.
-- **Side Note:** Physical and mental activities prior: Eating, Walking, and talking. 
+- **Side Note:** Physical and mental activities prior: Sleeping, Eating, Walking, and talking. 
 
 ### Phase II: Rotational Submersion & Asymmetric Airway Blockage
 - **Right Nostril Inundation:** Upon turning the head, the right nostril fully filled with water. This is the investigator's chronically restricted/blocked airway pathway.
