@@ -4,6 +4,8 @@
 
 ### **Project Addendum: Supplemental Nutrient Delivery in Urban Pockets**
 
+### Disclaimer: I made certain that no material was left in the line. I detached all equipment and let the water run. While also giving the organisms present more time to drink, cool off, or absorb water
+
 ### **1. Rationale and Objective**
 
 In accordance with the *Urban Barrier Reality* and the *Safe Water Stations* protocol outlined in the foundational framework, a field intervention was executed to address localized ecological deprivation. In high-density urban areas like Oahu, organisms face severe limitations in obtaining uncontaminated, nutrient-dense hydration. The objective of this intervention was to establish a localized, grassroots remediation station providing both clean moisture and vital caloric/mineral inputs to isolated wildlife. 
