@@ -36,7 +36,7 @@ This relationship allows for repeated, non‑invasive observation.
 Using magnifying glasses and a small microscope, I observed that certain ants appear top‑heavy, with noticeable shifts in balance and weight distribution during movement.
 
 3.3 Pressure‑Shift Response to Airflow
-When gently blowing air toward them:
+When gently blowing air toward them: 
 
 some ants lower their thorax,
 
@@ -46,7 +46,11 @@ some redistribute weight across their legs,
 
 some shift their center of mass in rapid micro‑adjustments.
 
-some have their front legs planted with their entire bodies in the air. Repeated practice with those ants prove that they can learn to apply pressure to different areas for stabilization in real-time. Or they are smarter and showing me what they could always do
+some have their front legs planted with their entire bodies in the air. Repeated practice with those ants prove that they can learn to apply pressure to different areas for stabilization in real-time. Or they are smarter and showing me what they could always do and just need some human interaction. 
+
+some ants can even jump and shake their heads in an up-down & side-side motion. 
+
+some ants start running around like crazy and looking for other ants when I put good food out on a stone slab which is higher from the ground. 
 
 These behaviors resemble micro‑pressure stabilization, similar in concept (though not scale) to human somatic pressure‑shift responses.
 
