@@ -1,5 +1,5 @@
 Researcher: Kanoookah
-Location: Urban Honolulu, HI — Private Property
+Location: Urban Honolulu, HI — PRIVATE Property
 Date Initiated: 09/05/2026
 Status: Active Research (Ongoing)
 
