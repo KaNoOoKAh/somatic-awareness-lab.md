@@ -102,7 +102,7 @@ Very low gas movement
 
 4. Hugel Kultur
 Composition
-(Will enter later, I need to go out and take notes of which stumps and branches were cut)
+(Will enter later, I need to go out and take notes of which stumps and branches are cut and placed in different piles as well as holes dug in the ground)
 
 Analog
 Represents ultra‑low‑pressure somatic states:
