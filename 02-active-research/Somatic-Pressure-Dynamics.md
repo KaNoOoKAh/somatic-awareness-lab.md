@@ -46,7 +46,7 @@ some redistribute weight across their legs,
 
 some shift their center of mass in rapid micro‑adjustments.
 
-some have their front legs planted with their entire bodies in the air. Repeated practice with those ants prove that they can learn to apply pressure for stabilization in real-time
+some have their front legs planted with their entire bodies in the air. Repeated practice with those ants prove that they can learn to apply pressure to different areas for stabilization in real-time. Or they are smarter and showing me what they could always do
 
 These behaviors resemble micro‑pressure stabilization, similar in concept (though not scale) to human somatic pressure‑shift responses.
 
