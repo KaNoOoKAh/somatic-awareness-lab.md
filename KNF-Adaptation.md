@@ -24,6 +24,8 @@ The testing frameworks detailed below directly adapt core principles of **Korean
 
 KNF focuses on cultivating indigenous microorganisms (IMO) and utilizing self-made, fully bioavailable inputs to strengthen plant immunity and optimize soil structure. The processing of localized plant matter, fruit sugars, and mineral balances in these tests mirrors traditional KNF inputs—such as **Fermented Plant Juice (FPJ)** and **Liquid IMO (LIMO)** drenchings—repurposed here through a pressurized atmospheric delivery system to target the surrounding canopy, wildlife, and active compost matrices simultaneously.
 
+#### Upon request I can provide pictures and proof of successful collection and cultivation of different indigenous micro organisms. using different spawn and food sources . kinda like how some use starch for LAB.
+
 ---
 
 ## 🧪 Formulation Matrices: Tests 1 & 2
