@@ -84,7 +84,7 @@ The right side of my face is feels like it’s kind of split in half but there i
 
 #### **User Log Addition** Time:6:32p.m. on 09.04.2026  
 
-Additional Very Important Observation:
+Additional Very Important Observation(Not sure what happened to this):
 
 Additional Observation: Post‑Drying Sensory Event (Popcorn & Cookie Episode)
 After drying off, I went to make popcorn and also ate a cookie. The cookie had no smell, and the taste was somewhat dull. When I pulled the popcorn bag out of the microwave, the moisture from the steam hit my face. At that exact moment, the smell I perceived was strange, and then I smelled the popcorn.
