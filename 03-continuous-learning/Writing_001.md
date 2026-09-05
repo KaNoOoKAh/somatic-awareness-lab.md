@@ -10,7 +10,7 @@ Figuring out which Japanese characters are meant to be created with different di
 
 Researching any correlation or discontinued/forgotten techniques between writing as a juvenile and as an adult.
 
-Attempting to understand the different symbols and the pressure shift in comprehensive understanding.
+Attempting to understand the different symbols and the pressure shift in movement and comprehensive understanding.
 
 When using different hyphens or dashes, should I be applying pressure, micro‑activation, or any momentum to any part of my body or mental state?
 
