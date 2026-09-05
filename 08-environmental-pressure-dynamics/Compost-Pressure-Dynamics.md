@@ -4,6 +4,17 @@ Each pile represents a different pressure‑shift model, mirroring somatic, beha
 
 These are environmental analogs, not somatic experiments.
 
+Current Time: 9:36a.m.-I will be attempting to observe which organisms are present in which areas. 
+
+Potato bugs are practicing somatic functions by holding their breathe and exploring while completely submerged.  
+* They exhibit controlled submersion behavior, maintaining breath-hold states that resemble somatic regulation under altered pressure conditions, or they are breathing..,
+
+I will be observing the Pillbugs to see what they do after they get out of the water. While observing any other organisms that join the party. This well help me identify which organisms are present in the garden. 
+
+Potato bugs Aka Armadillidium vulgare are climbing elevated structures and flinging themselves into the pool of fresh running water that was made from collecting, buying, placing, and compacting matter/materials/elements/minerals. 
+* They transition to a raised surface, then release stored positional pressure by projecting themselves into the pond
+
+
 1. Standard Carbon–Nitrogen Compost Pile
 Composition
 Dry leaves
