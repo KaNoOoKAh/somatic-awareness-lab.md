@@ -100,6 +100,10 @@ High structural stability
 
 Very low gas movement
 
+4. Hugel Kultur
+Composition
+(Will enter later, I need to go out and take notes of which stumps and branches were cut)
+
 Analog
 Represents ultra‑low‑pressure somatic states:
 stall, stasis, non‑processing, carbon‑matrix behavior.
