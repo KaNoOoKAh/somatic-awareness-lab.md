@@ -4,6 +4,8 @@
 
 ### **Project Addendum: Supplemental Nutrient Delivery and Compost Hydration**
 
+### Disclaimer: I made certain that no material was left in the line. I detached all equipment and let the water run. While also giving the organisms present more time to drink, cool off, or absorb water. 
+
 ### **1. Rationale and Objective**
 
 In accordance with the *Urban Barrier Reality* and the *Safe Water Stations* protocol outlined in the foundational framework, a field intervention was executed to counter localized ecological deprivation. In high-density urban areas like Oahu, organisms face severe limitations in obtaining uncontaminated, nutrient-dense hydration. Building on previous successful applications, this intervention combined wildlife nutrient delivery with active compost hydration to enhance local micro-habitats simultaneously. 
