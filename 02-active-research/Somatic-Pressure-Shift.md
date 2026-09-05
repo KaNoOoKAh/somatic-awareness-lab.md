@@ -13,7 +13,7 @@ This suggests that the pressure‑shift phenomenon may not be localized to a sin
 Further notes will be added as I continue mapping how pressure states propagate across different regions of the body during writing, symbol formation, and focused somatic engagement.
 
 This suggests that writing may not be purely motor‑mechanical. Instead, it may involve a pressure‑based somatic encoding system, where the act of forming a letter triggers a corresponding pressure adjustment in the face or cranial region.
-Of course I am sure this is tought in painting classes which I am not enrolled in or taking.
+Of course I am sure this is taught in painting classes which I am not enrolled in or taking.
 I am tentatively naming this phenomenon:
 Somatic Pressure‑Shift Encoding (SPSE)  
 (also referred to as Dynamic Character Pressure Modulation or Facial‑Pressure Glyph Switching).
