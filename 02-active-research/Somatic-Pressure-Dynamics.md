@@ -32,6 +32,10 @@ They regularly approach and wait for fresh fruits and vegetables, often with mis
 
 This relationship allows for repeated, non‑invasive observation.
 
+i do not like them eating rotten foods. 
+
+The ants on my property consume fresh fruits and vegetables, but they appear to prefer these foods when they are prepared in a dressing‑like consistency, such as miso or vinaigrette. The smoother texture and stronger flavor profile seem to increase their engagement and feeding behavior.
+
 3.2 Top‑Heavy Movement Patterns
 Using magnifying glasses and a small microscope, I observed that certain ants appear top‑heavy, with noticeable shifts in balance and weight distribution during movement.
 
