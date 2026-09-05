@@ -48,6 +48,8 @@ Difficulty isolating unilateral lip movements in real time, with concentrated fo
 
 Testing conscious override of trigeminal sensory inputs and exploring full-body relaxation to map baseline autonomic reset points.
 
+Observation: 
+
 ### Original Unedited User Log
 ####Part 1: Bathtub Immersion & Sensory Testing
 
@@ -78,4 +80,17 @@ The right side of my face is feels like it’s kind of split in half but there i
 - The sounds or what ever it is that my stomach was making to recalibrate was coming directly inside my head and hitting both sides of my inner ears at the same time.., 
 - the very first reason that I was trying to cover like half of my face or not my face, but to cover one nostril not the other was to try to actually gain like full control over what nostril I’m using to breathe and which one I’m not. 
   - I am going to do this again and alternate sides, not only alternate sides of the nostril but actualposition of my body. 
-  - once I start getting the hang of it, I will direct the pressure or force to imitate a different angle or physical perspective on my body and my mind.
+  - once I start getting the hang of it, I will direct the pressure or force to imitate a different angle or physical perspective on my body and my mind. 
+
+#### **User Log Addition** Time:6:32p.m. on 09.04.2026  
+
+Additional Very Important Observation:
+
+Additional Observation: Post‑Drying Sensory Event (Popcorn & Cookie Episode)
+After drying off, I went to make popcorn and also ate a cookie. The cookie had no smell, and the taste was somewhat dull. When I pulled the popcorn bag out of the microwave, the moisture from the steam hit my face. At that exact moment, the smell I perceived was strange, and then I smelled the popcorn.
+
+When I walked away to let the popcorn cool, I noticed I was able to taste the popcorn when applying force or pressure to my face while breathing. This confused me, so I went outside to try to understand why facial pressure was creating a popcorn taste in my mouth.
+
+While walking around outside, I still had chocolate‑chip cookie bits in my mouth that I was chewing. For the entire 10 minutes I was outside, I believed I was chewing popcorn. When I went back inside to get more popcorn, I realized the bag was still unopened on the kitchen counter.
+
+
