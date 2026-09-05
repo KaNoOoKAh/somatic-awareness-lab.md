@@ -28,7 +28,7 @@ somatic encoding may be distributed rather than localized.
 All ants observed live on my own property.
 I do not harm them.
 I provide aid if needed.
-They regularly approach and wait for fresh fruits and vegetables, often with miso dressing or vinaigrette, which they appear to prefer.
+They regularly approach and wait for fresh fruits and vegetables, often with miso dressing or vinaigrette, which they appear to prefer on the compost pile as well. Insect frass is a good amendment for the garden. 
 
 This relationship allows for repeated, non‑invasive observation.
 
