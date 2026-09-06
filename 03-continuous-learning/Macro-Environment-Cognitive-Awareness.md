@@ -38,6 +38,7 @@ Upon deployment, the intervention generated positive, simultaneous responses acr
 
 * 4:31pm date:same
   - I’m noticing that the colonies of ants that do not have trees or plants with different types of sugar content. Are very very territorial.
-  - I am going to make a sugar/honey mixture and spray it on the leaves of some plants/trees. It almost looks like they fall asleep while drinking sugary 💧 
+  - I am going to make a sugar/honey mixture and spray it on the leaves of some plants/trees. It almost looks like they fall asleep while drinking sugary 💧
+  - I’m hoping I can get them to stay away from the compost pile. When I started breaking on of the compost piles down I could see ants fighting with a bunch of different organisms. 
 
 *This record serves as an official timestamped addition to the ongoing somatic-cognitive-function / environmental_anomalies repository.*
