@@ -31,6 +31,8 @@ personal opinionated theory- We know what’s connected to what, what needs what
   - Trust and commit that once your mind and body are in top shape, and not back into shape. Everything will start looking vibrant, you will understand every conceptual feeling and emotion and not faulter or get scared.
   - I’m trying to find out what actual genetic degradation is. I don’t think it’s possible, I don’t think memory loss is a real thing. Science proves that it’s a function and process that isn’t being used.. , -ICeI^3
 
+We stand by this comment above. Let's get "control" and remember why we are in this position. We understand that every single individual and organism have priorities. Let's just make the health of our mind, body, and soul a top one..,
+
 ## Next Step: 
 
   - Trust yur selF. Not something you learned from someone or something else.
