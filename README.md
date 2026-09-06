@@ -29,7 +29,7 @@ personal opinionated theory- We know what’s connected to what, what needs what
 
 # RESET  
   - Trust and commit that once your mind and body are in top shape, and not back into shape. Everything will start looking vibrant, you will understand every conceptual feeling and emotion and not faulter or get scared.
-  - I’m trying to find out what actual genetic degradation is. I don’t think it’s possible, I don’t think memory loss is a real thing. Science proves that it’s a process that isn’t being used.. , -ICeI^3
+  - I’m trying to find out what actual genetic degradation is. I don’t think it’s possible, I don’t think memory loss is a real thing. Science proves that it’s a function and process that isn’t being used.. , -ICeI^3
 
 ## Next Step: 
 
