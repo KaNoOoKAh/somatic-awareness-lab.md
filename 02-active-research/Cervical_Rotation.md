@@ -3,7 +3,7 @@
 Summary: 
 * Turning with the spine instead of using the skin and muscles surrounding the face and neck
 * Directional Energy applied to the isolated target areas makes contraction of the muscles, tissues, and skin much easier  
-* If in fact I do turn the "normal" way. I will try to prepare the neck and spine areas with directions. I will practice this with macro movements first in order to mentally and physically prepare, repair, and help the areas I have left to degrade. 
+* If in fact I do turn the "normal" way. I will try to prepare the neck and spine areas with directions. I will practice this with macro movements first in order to mentally and physically prepare, connect, repair, and help the areas I have left to degrade. 
 
 #### Somatic Feedback: 
 * Without an actual constant and stable connection to the brain that can be positively and most definitely felt, my body is being left to operate and function in complete blindness.
