@@ -20,23 +20,5 @@ This repository is organized into folders that reflect the full lifecycle of res
 
 Each folder contains its own `README.md` with guidance on what belongs there and how to use it.
 
-Personal note: Create a layout in order to keep your mind and body in a state of understanding. If you get confused or lose concentration, do not look at the layout you made. 
 
-personal opinionated theory- We know what’s connected to what, what needs what to work, it’s time we figure out what that means. 
-  - I’m thinking if I force myself to adapt and try certain things. I can find out what nutrition or elements actually do for the system I’m in complete control of.
-    Instead of leaving it up to a system that has no control or direction. But mainly no connection to or help/understanding from the mind in control of it. 
-
-
-# RESET  
-  - Trust and commit that once your mind and body are in top shape, and not back into shape. Everything will start looking vibrant, you will understand every conceptual feeling and emotion and not faulter or get scared.
-  - I’m trying to find out what actual genetic degradation is. I don’t think it’s possible, I don’t think memory loss is a real thing. Science proves that it’s a function and process that isn’t being used.. , -ICeI^3
-
-We stand by this comment above. Let's get "control" and remember why we are in this position. We understand that every single individual and organism has (not have stupid auto correct) priorities. Let's just make the health of our mind, body, and soul a top one..,
-
-## Next Step: 
-
-  - Trust yur selF. Not something you learned from someone or something else.
-  - If you don’t know what I’m talking about. It isn’t a good current to be on. .. ,
-   ### - Trying to understand something we were never made to do, is tough work. 
-### - Figuring out the true purpose, figuring out the disconnect, figuring out what is stopping you, is going to be the key to life.  
-          -Do not think for one second that an injury or illness is actually concrete or permanent. I will try to get the word out. We need to start from the body. 
+#### When you learn things or don’t have someone or something teaching you. You don’t have any reason to think back or question yourself. The brain needs continued stimulation. 
