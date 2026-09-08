@@ -11,4 +11,7 @@ movements were erratic and almost static like when someone else was talking to m
 this video was taken a little after a couple tries to get it to focus.
 
 
+#### READ THE DESCRIPTION
+
+
 https://m.youtube.com/shorts/BHeieaDKvmo?ra=m
