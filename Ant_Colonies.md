@@ -7,3 +7,8 @@ I noticed and took videos of ant colonies doing weird things. They had no struct
 Movements also seemed to be influenced by voices or sounds made from a living life form. Sounds created by artificial materials did not seem to grab their attention. 
 
 movements were erratic and almost static like when someone else was talking to me.
+
+this video was taken a little after a couple tries to get it to focus.
+
+
+https://m.youtube.com/shorts/BHeieaDKvmo?ra=m
