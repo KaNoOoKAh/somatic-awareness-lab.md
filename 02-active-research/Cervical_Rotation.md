@@ -11,3 +11,5 @@ Summary:
 * Placing my body upside down using different methods and also closing my eyes and changing different directions using the neck and below as the anchor point. Is giving no feedback to the brain. 
 * After long periods and while attempting to feel around me or purposely relaxing. My brain still thinks I was in the same exact position I was originally in.
 *  Different positions and movements should in fact cause certain areas to increase in pressure or provide some type of mental stimulation/ affect. But I am not getting good feedback unless actively applying energy/concentration to my brain.
+
+* Should my body be trying to align with my head AND/OR neck? IF I turn my head normally or by isolating and turning the spine or cranium. Should the rest of my body be trying to align with the direction my face is, or do I need to turn with the spine in order for the body to re-align itself? 
