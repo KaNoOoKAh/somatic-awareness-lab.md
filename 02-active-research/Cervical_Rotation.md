@@ -1,0 +1,12 @@
+### Somatic Anchor Specification: Upper Body Cervical Rotation 
+
+Summary: 
+* Turning with the spine instead of using the skin and muscles surrounding the face and neck
+* Directional Energy applied to the isolated target areas makes contraction of the muscles, tissues, and skin much easier  
+* If in fact I do turn the "normal" way. I will try to prepare the neck and spine areas with directions. I will practice this with macro movements first in order to mentally and physically prepare, repair, and help the areas I have left to degrade. 
+
+#### Somatic Feedback: 
+* Without an actual constant and stable connection to the brain that can be positively and most definitely felt, my body is being left to operate and function in complete blindness.
+* I have noticed that my head is not in tune with different directions. My senses and everything else that should be compensating or telling me that im upside down or in an awkward position is not telling my brain that. 
+* Placing my body upside down using different methods and also closing my eyes and changing different directions using the neck and below as the anchor point. Is giving no feedback to the brain. 
+* After long periods and while attempting to feel around me or purposely relaxing. My brain still thinks I was in the same exact position I was. Different positions and movements should in fact cause certain areas to increase in pressure or provide some type of mental stimulation/ affect. 
