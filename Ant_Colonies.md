@@ -8,7 +8,7 @@ Movements also seemed to be influenced by voices or sounds made from a living li
 
 movements were erratic and almost static like when someone else was talking to me.
 
-this video was taken a little after a couple tries to get it to focus.
+this video was taken after multiple interactions with the organisms in the area. Once I noticed things looked weird and even carnivorous at times I attempted to gain their focus.
 
 
 #### READ THE DESCRIPTION
