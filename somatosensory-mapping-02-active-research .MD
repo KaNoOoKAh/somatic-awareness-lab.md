@@ -9,7 +9,7 @@ Raw talk to speak data at the bottom of the page
 
 Repository: KANOOOKAH/somatic – cognitive – function
 
-#### Additional Videos: https://youtube.com/shorts/jFJyxturdJY?is=SdvPQz2uJbzG_Q6D
+#### Related Content: https://youtube.com/shorts/jFJyxturdJY?is=SdvPQz2uJbzG_Q6D
 
 Current State: Post-immersion, active crouched recovery phase.
 
