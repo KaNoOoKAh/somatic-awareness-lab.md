@@ -1,6 +1,6 @@
 Time: 5:54 PM, September 8, 2026
 
-EDIT- I keep forgetting to include the breathing exercise! There’s two and ah half different areas of concentration and control I have found when breathing! Both are inside the back of throat, one is higher, one is lower. Both can be used to inhale through the nose without using the nostrils.Sometimes it’ll sound weird even purr like, raspy like, or quiet. 
+EDIT- I keep forgetting to include the breathing exercise! There’s two and ah half different areas of concentration and control I have found when breathing! Both are inside the back of throat, one is higher, one is lower. Both can be used to inhale through the nose without using the nostrils.Sometimes it’ll sound weird even purr like, raspy like, or quiet. Keep your mouth closed when doing it.
 
 My body feels better when I breathe like that though. It feels like it’s pulling air in evenly through both nostrils to. You can cover each nostril to figure out if it’s working or not.
 
