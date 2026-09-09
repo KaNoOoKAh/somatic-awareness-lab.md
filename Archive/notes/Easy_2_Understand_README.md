@@ -20,7 +20,7 @@ I practice these exercises almost 24/7—inhaling and exerting either outward fo
 
 OR 
 
-We don’t even know what is really happening? 
+We don’t even know what is really happening? If I’m correct I should be able to not get sun burnt? Why doesn’t the body produce sweat when your at the beach just lying down in the sun?
 
 However, I am also noticing which areas I am forgetting. Basically, all the inner areas of my face, my tongue, and my gums—not near the area where the teeth start popping out from, but higher and more in the interior. My neck is also very hard; it's difficult to get the front of my neck to react the same way as the rest of my body when I’m doing these exercises. I have noticed that the roof of my mouth is getting more receptive, and certain teeth are more receptive to sensations. Usually, when I drink or eat something hot or cold, only certain teeth react, but now I’m getting different areas of my mouth or teeth to react.To explain the exercise in a very easy way: practice inhaling and first pulling your stomach in. When you pull it in, I want you to pull the sides by your obliques, leave the area by your bellybutton alone, tighten or contract the top two abs or area right by your solar plex or bird cage, your lower back, your upper back, and your chest.
 
