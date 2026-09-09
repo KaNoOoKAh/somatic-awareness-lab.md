@@ -4,6 +4,7 @@ EDIT- I keep forgetting to include the breathing exercise! There’s two and ah 
 
 My body feels better when I breathe like that though. It feels like it’s pulling air in evenly through both nostrils to. You can cover each nostril to figure out if it’s working or not.
 
+The half area feels like I can pull in air from lower in the body now to. It almost feels like I can either use my lungs or the areas below to successfully pull in air. I do this by opening up my throat and applying a pulling pressure down from below, or I try to physically pump my stomach in and out. 
 
 
 First off, I want to say that after this rain that we just had, I am seeing an increase in ants and birds that are just everywhere. They don’t really seem to have a purpose; they’re just walking everywhere. The birds are in our yard, but they’re the birds that we normally give birdseed to.The ants are just walking in the middle of the driveway and parking area in circles and random paths. I have also noticed a massive heat—I don’t know if I can feel it inside my body, but on top of my skin, it is just massive. I think this heat is in the environment, but we can’t normally feel it, though I’m not certain. I think it could be what is causing the massive confusion, disarray, physical and mental stress, and disorientation out there.
