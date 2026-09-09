@@ -4,7 +4,8 @@ EDIT- I keep forgetting to include the breathing exercise! There’s two and ah 
 
 #### Fun Note: I’ve been practicing saying different notes on inhale like I’ve done before, for hours and hours. the bones and areas connected in the top of my chest start to feel strong and with actual presence. This has helped me start to feel different areas in my body. 
 
-- I will try to find out if doing this with my mouth open or close makes a difference in absorbing different frequencies or notes from the outside environment. 
+- I will try to find out if doing this with my mouth open or close makes a difference in absorbing different frequencies or notes from the outside environment.
+- I have also noticed that the more I say different notes while inhaling the easier it gets to pronounce different notes. 
 
 My body feels better when I breathe like that though. It feels like it’s pulling air in evenly through both nostrils to. You can cover each nostril to figure out if it’s working or not.
 
