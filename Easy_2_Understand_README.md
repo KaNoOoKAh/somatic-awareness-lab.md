@@ -2,6 +2,10 @@ Time: 5:54 PM, September 8, 2026
 
 EDIT- I keep forgetting to include the breathing exercise! There’s two and ah half different areas of concentration and control I have found when breathing! Both are inside the back of throat, one is higher, one is lower. Both can be used to inhale through the nose without using the nostrils.Sometimes it’ll sound weird even purr like, raspy like, or quiet. Keep your mouth closed when doing it.
 
+#### Fun Note: I’ve been practicing saying different notes on inhale like I’ve done before, for hours and hours. the bones and areas connected in the top of my chest start to feel strong and with actual presence. This has helped me start to feel different areas in my body. 
+
+- I will try to find out if doing this with my mouth open or close makes a difference in absorbing different frequencies or notes from the outside environment. 
+
 My body feels better when I breathe like that though. It feels like it’s pulling air in evenly through both nostrils to. You can cover each nostril to figure out if it’s working or not.
 
 The half area feels like I can pull in air from lower in the body now to. It almost feels like I can either use my lungs or the areas below to successfully pull in air. I do this by opening up my throat and applying a pulling pressure down from below, or I try to physically pump my stomach in and out. 
