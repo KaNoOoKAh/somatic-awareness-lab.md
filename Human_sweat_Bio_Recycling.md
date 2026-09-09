@@ -9,7 +9,7 @@ A comparative analysis of standard biological models of sweat excretion versus a
 | Feature | The Scientific View | The Organic Reabsorption View |
 | :--- | :--- | :--- |
 | **Primary Direction** | **Outward release.** Sweat glands push moisture out onto the skin surface to evaporate and lower core body temperature. | **Inward cycle.** Sweat is produced outwardly with the specific purpose of being reabsorbed by the body. |
-| **Water Management** | **Sacrificial loss.** The body expels water to prevent overheating, relying on drinking fluids later to replenish itself. | **Recycling mechanism.** The body creates and leaves the moisture on the skin so it can be reclaimed when needed. |
+| **Water Management** | **Sacrificial loss.** The body expels water to prevent overheating, relying on drinking fluids later to replenish itself. While expecting the “sun” to use its heat to evaporate the liquid from it. In order to use the nutrients and minerals for energy that is just left on the skin | **Recycling mechanism.** The body creates and leaves the moisture on the skin so it can be reclaimed when needed. |
 | **Nutrient Function** | **Excretion of waste.** Sweat removes trace minerals, salts, and small amounts of metabolic waste products from the blood. | **Processing and availability.** Sweat acts as a processed, refined fluid that makes nutrients highly available for reabsorption. |
 
 ---
