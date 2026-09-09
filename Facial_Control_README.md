@@ -1,6 +1,6 @@
 Time is 7:54 AM September 9 year 2026
 
-#### I will be attempting to create more videos of my probation does not get revoked at 2:00pm today in court. This is due to the fact that what ever is happening is affecting and effecting all people and organisms of every kind. I took the necessary steps without including my research to inform administration of certain issues I was being victim of. Administration did not handle it correctly or according to protocol. But I’m still ok with what ever is happening and I will deal with it accordingly. Since I do I have a better understanding of what is going on. I can physically and mentally handle situations better than most right now. 
+#### I will be attempting to create more videos of my probation does not get revoked at 2:00pm today in court. This is due to the fact that what ever is happening is affecting and effecting all people and organisms of every kind. I took the necessary steps without including my research to inform administration of certain issues (real misconduct) I was being victim of. Administration did not handle it correctly or according to protocol. But I’m still ok with what ever is happening and I will deal with it accordingly. Since I do I have a better understanding of what is going on. I can physically and mentally handle situations better than most right now. 
 
 
 
