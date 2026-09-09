@@ -1,7 +1,6 @@
 Time is 7:54 AM September 9 year 2026
 
-With repeated exercise of actively involving the entire body internally and externally when I inhale, either exert negative or positive energy or a in word force on inhale or exhale
-And applying the opposite force on exhale
+With repeated exercise of actively involving the entire body internally and externally when I inhale, either exert negative or positive energy or an inward or outward force while applying the opposite force on exhale. But the trick is to concentrate and control all areas of the body and not just the nostrils and/or middle of my stomach.
 
 Or applying inward force on inhale and exhale while holding concentration and control of all areas including skin, skin posture, skin alignment, control of both eyes, lip placement, both nostrils, jaw, and both ears. While holding concentration and control for an entire 5-10 minutes at a time without releasing concentration or control of any amount. 
 
