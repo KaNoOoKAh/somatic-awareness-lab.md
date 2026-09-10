@@ -20,7 +20,8 @@ Does discriminating water inhalation from air inhalation improve interoceptive a
 Can this practice strengthen sensorimotor mapping of nasal/pharyngeal/laryngeal regions?
 Autonomic Adaptation:
 
-Does the body upregulate mucosal secretion (salivary/nasal mucus) as a protective response to perceived drowning threat?
+Does the body upregulate mucosal secretion (salivary/nasal mucus) as a protective response to perceived drowning threat? OR produce mucus on a massive scale to cleanse the body out or to send the signals to to areas to start producing water for adaptation and acclimation? 
+
 What is the timeline for this adaptation across repeated sessions?
 Neural Plasticity:
 
