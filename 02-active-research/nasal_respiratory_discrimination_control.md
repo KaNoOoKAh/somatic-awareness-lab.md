@@ -1,4 +1,7 @@
-Earlier today I did a small somatic exercise by holding water in my mouth. I practiced holding it in one side and holding my nostrils closed with my hand. I cannot post the whole experiment or all the things that I did because it could be viewed as negative.  
+Earlier today I did a small somatic exercise by holding water in my mouth. I practiced holding it in one side and holding my nostrils closed with my hand. 
+
+#### Responsible Disclaimer: I will not post the whole experiment above because it could be viewed as irresponsible. So I will just research to see if anyone has documented any observations or research. 
+(This shows true physical, mental, and self awareness)
 
 So I searched and researched all over trying to find different theories, stories, scientific/medical information..
 
