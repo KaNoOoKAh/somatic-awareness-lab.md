@@ -10,6 +10,15 @@ Sucking in water through their nostrils, and breathing with their throat/lungs a
 
 Keeping 3/4 of their face and head completely submerged, with water only pooling with the other water already covering up to half of their mouth? 
 
+What would happen to their eyes? What if their eyes already have fogginess when opening them underwater? Would this alter, change, or heal areas? 
+
+Why do some people have an easy time opening their eyes underwater as kids but have a difficult time in adulthood?
+
+Would this help their vision once fogginess subsided? Even though removing their face from the water should have cleared the fogginess up. 
+- Would the zoom features and other fields or types of views be much easier to control?
+
+What would happen if someone included some of the somatic positive/negative exercises we've mentioned in some of the other files? 
+
 Vagal & Parasympathetic Response:
 
 Does controlled nasal water immersion trigger the mammalian dive reflex (bradycardia, peripheral vasoconstriction, blood shift)?
