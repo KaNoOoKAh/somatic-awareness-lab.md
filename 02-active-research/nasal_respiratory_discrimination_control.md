@@ -25,15 +25,18 @@ Vagal & Parasympathetic Response:
 
 Does controlled nasal water immersion trigger the mammalian dive reflex (bradycardia, peripheral vasoconstriction, blood shift)?
 Can repeated exposure strengthen vagal tone and enhance parasympathetic regulation?
+
 Interoceptive Precision:
 
 Does discriminating water inhalation from air inhalation improve interoceptive accuracy in distinguishing respiratory pathways?
 Can this practice strengthen sensorimotor mapping of nasal/pharyngeal/laryngeal regions?
+
 Autonomic Adaptation:
 
 Does the body upregulate mucosal secretion (salivary/nasal mucus) as a protective response to perceived drowning threat? OR produce mucus on a massive scale to cleanse the body out and/or start sending an acclimation response protocol through other areas of the body? 
 
 What is the timeline for this adaptation across repeated sessions?
+
 Neural Plasticity:
 
 Does repeated controlled exposure produce remapping of respiratory control centers and vagal afferent processing?
