@@ -1,13 +1,6 @@
 Time is 7:54 AM September 9 year 2026
 
-#### I will be attempting to create more videos of my probation does not get revoked at 2:00pm today in court. This is due to the fact that what ever is happening is affecting and effecting all people and organisms of every kind. I took the necessary steps without including my research to inform administration of certain issues (real misconduct) I was being victim of. Administration did not handle it correctly or according to protocol. But I’m still ok with what ever is happening and I will deal with it accordingly. Since I do I have a better understanding of what is going on. I can physically and mentally handle situations better than most right now. 
-
-#### ^ I think this is due to the population and environment. If we look at Oahu and the amount of people who have to maintain some kind of posture, poise, and decorum. While also looking at urban areas and how much real nature there is to help with the pressure. It doesn’t look like a good expression.
-
-* I say real misconduct because personnel present during certain incidents were made aware of the misconduct of other personnel happening around them and in front of them. The responses I received were personal and not accordingly to official standards of conduct and ethical standards of conduct that should have been adhered to and abided by. 
-
-
-
+#### Related Content:
 https://m.youtube.com/@KaNoOoKAhandIcEi03/shorts?ra=m
 
 With repeated exercise of actively involving the entire body internally and externally when I inhale, either exert negative or positive energy or an inward or outward force while applying the opposite force on exhale. But the trick is to concentrate and control all areas of the body and not just the nostrils and/or middle of my stomach.
@@ -20,3 +13,5 @@ I have noticed that it is easier to try and do this while doing daily chores, sc
 
 But I also have noted that doing this exercise does not increase control or response of internal stimuli. Like sensory response, delivery, or maintenance to all internal areas “in” the body including the brain, tissues, and muscles. 
 - A different exercise that I have been practicing has helped with those areas.
+
+ 
