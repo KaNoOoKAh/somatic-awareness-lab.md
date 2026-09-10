@@ -19,6 +19,8 @@ Would this help their vision once fogginess subsided? Even though removing their
 
 What would happen if someone included some of the somatic positive/negative exercises we've mentioned in some of the other files? 
 
+Does nutrient availability in the water change anything? 
+
 Vagal & Parasympathetic Response:
 
 Does controlled nasal water immersion trigger the mammalian dive reflex (bradycardia, peripheral vasoconstriction, blood shift)?
