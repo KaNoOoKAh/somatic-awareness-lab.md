@@ -1,4 +1,4 @@
-# 02 — Active Research
+# Active Research
 
 Projects and research threads you have **started** or are currently **continuing**.
 
