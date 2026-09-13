@@ -1,6 +1,6 @@
 # Active Research
 
-Projects and research threads you have **started** or are currently **continuing**.
+Projects and research threads I have **started** or are currently **continuing**.
 
 ## What Goes Here
 
