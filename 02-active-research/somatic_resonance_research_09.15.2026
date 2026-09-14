@@ -28,6 +28,18 @@ Active broadcast initiated. Audio signals are being projected from a fixed speak
   * When tracking with the right ear perpendicular to the source, conscious effort was made to attenuate (turn off) left-ear reception.
   * **Dynamic Vectoring:** Because physical advancement shifts the observer's spatial coordinates relative to the directional speaker, every step requires an immediate directional and cognitive adjustment to re-acquire the target signal vector.
 
+## 1.1 Hardware Specifications & Material Variables
+
+To maintain experimental replication, the mechanical properties of the broadcast hardware must be logged. Speaker cone materials directly influence wave velocity, transient response, and mechanical projection force, altering both auditory delivery and somatic tissue resonance.
+
+### Active Hardware Profile:
+* **Speaker Model/Type:** [e.g., Portable Outdoor Bluetooth Speaker / Studio Monitor]
+* **Cone Material:** [e.g., Paper / Polypropylene / Aluminum / Kevlar / Ceramic]
+  * *Material Impact Note:* Stiffer materials (e.g., Aluminum/Kevlar) yield faster transient responses and sharper mechanical wave impacts, which may heighten somatic (body) detection, whereas dampened materials (e.g., Paper/Polypropylene) offer smoother acoustic dispersion.
+* **Enclosure Type:** [e.g., Ported / Sealed / Open-back]
+* **Maximum Power Output:** [e.g., 20W / 50W]
+
+
 ## 3. Empirical Data Tracking Matrix
 
 | Trial ID | Time | Frequency (Hz) | Distance (Steps) | Body Alignment (e.g., Right Perpendicular) | Somatic Intensity (1-5) | Auditory Intensity (1-5) | Operational Adjustments / Notes |
