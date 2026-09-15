@@ -1,7 +1,7 @@
 # Field Log: Somatic Resonance and Directional Audio Perception
 **Date:** September 14, 2026  
 **Location:** Driveway / Garden Acoustic Pocket  
-**Principal Observer:** [Your Name/GitHub Handle]
+**Principal Observer:**KANoOoKAh&ICeI^3..,
 
 ---
 
