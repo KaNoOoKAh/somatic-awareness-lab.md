@@ -2,7 +2,7 @@
 **Date:** September 14, 2026  
 **Location:** Driveway / Garden Acoustic Pocket  
 **Principal Observer:**KANoOoKAh&ICeI^3..,
-
+**Reminder** In no way shape or form am I saying that this is correct or incorrect scientifically, medically, or on a personal(kinda am)level. I am just documenting my own personal observations..,
 ---
 
 ## 1. Project Parameters & Setup
