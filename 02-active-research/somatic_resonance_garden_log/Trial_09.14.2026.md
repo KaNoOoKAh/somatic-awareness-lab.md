@@ -60,8 +60,19 @@ During preliminary testing, multi-frequency audio signals (Hz) were broadcast th
 - **Auditory Intensity:** 1/5 passive | 4/5 under extreme cognitive load
 - **Spatial Alignment:** Rotated 90 degrees. Front of torso directly facing the wooden privacy fence; micro-speaker node positioned directly behind the observer's back plane.
 - **Observer Analysis (Neural Activation & Cross-Species Data):**
-  * **Systemic Bypassing:** Shifting to 432 Hz did not lower somatic absorption. The ears remain completely bypassed unless intense, deliberate cognitive control is applied to the right hemisphere.
+  * **Systemic Bypassing:** Shifting to 432 Hz did not lower somatic absorption. The ears remain completely bypassed unless intense, deliberate cognitive control is applied to the right and left hemisphere.
   * **Cranial Resonance:** Under forced concentration, the auditory perception shifted to a distinct "higher pitch," accompanied by a physical, responsive sensation localized inside the brain tissue itself. This suggests direct electromagnetic or mechanical coupling with the nervous system.
   * **Biological Indicator:** Trial aborted at 2:00 PM due to acute behavioral shifts in a domestic canine indoors. The subject displayed uncharacteristic spatial confusion/anxiety without vocalization, proving the micro-speaker setup generates high-penetration environmental pressure waves that bypass physical structures.
-
 | **004** | 01:56 PM | 432 Hz | 4 Steps | Torso facing fence | 5 | 1 (4) | Aborted 2:00 PM. Dog tracking indoors. Brain tissue sensation. |
+## 4. Advanced Theoretical Frameworks
+
+### 4.1 Bilateral Neural Gating Theory
+Observations from the 432 Hz trial indicate that the facial tissue and standard auditory canals experience total sensory saturation, defaulting entirely to mechanical vibration tracking. 
+
+To transition from "feeling" the vibration to "hearing" the acoustic pitch, the observer must initiate an active, conscious bilateral cognitive override. Both the left and right hemispheres of the brain must be synchronized to manually gate (filter out) the overwhelming somatic feedback. The localized sensation inside the brain tissue during intense concentration suggests that direct neural coupling or cranial bone conduction is occurring, bypassing standard tympanic membrane pathways.
+
+### 4.2 Environmental Penetration & Bio-Sensitivity Profile
+The mid-range 432 Hz frequency demonstrated an immediate environmental penetration capacity that bypasses structural boundaries:
+* **Wave Trapping:** The low-hanging mango tree canopy and vertical-slat wooden fence create an acoustic compression chamber, driving the wave downward into the asphalt and directly into the observer's body frame.
+* **Structural Penetration:** Despite the micro-size of the speaker node, the pressure waves easily penetrated the residential exterior walls, causing acute spatial tracking behavior in a domestic canine indoors. This highlights a high-penetration bio-sensitivity factor that must be factored into all future open-air frequency testing.
+
