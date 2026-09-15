@@ -76,3 +76,10 @@ The mid-range 432 Hz frequency demonstrated an immediate environmental penetrati
 * **Wave Trapping:** The low-hanging mango tree canopy and vertical-slat wooden fence create an acoustic compression chamber, driving the wave downward into the asphalt and directly into the observer's body frame.
 * **Structural Penetration:** Despite the micro-size of the speaker node, the pressure waves easily penetrated the residential exterior walls, causing acute spatial tracking behavior in a domestic canine indoors. This highlights a high-penetration bio-sensitivity factor that must be factored into all future open-air frequency testing.
 
+### 4.3 Cranial Bone Conduction Profiles (Teeth-Somatic Baselines)
+The necessity for active bilateral neural gating during open-air testing is heavily supported by prior baseline experiments utilizing direct cranial bone conduction via the teeth. Testing the transmission of frequencies through contrasting materials held against the teeth yielded distinct physiological effects:
+
+* **Stainless Steel Transmission:** Direct contact with stainless steel rods produced hyper-efficient, high-velocity wave transmission into the jawbone and skull. This mechanical coupling bypassed the tympanic membrane entirely, delivering a sharp, intense auditory tone felt directly within the cranial cavity.
+* **Wooden Medium Transmission:** Direct contact with wooden dowels resulted in heavy wave attenuation and absorption due to the fibrous nature of the material. This produced a deeply dampened, localized somatic vibration rather than a sharp acoustic internal pitch.
+
+**Conclusion for Garden Testing:** The human skeletal framework acts as an active antenna array. When grounded on high-density mediums like asphalt, the body processes acoustic waves via bone conduction pathways similar to the stainless steel teeth model. This forces a global somatic response that overrides standard airborne hearing, validating why active cognitive focus is required to manually separate sound from vibration.
