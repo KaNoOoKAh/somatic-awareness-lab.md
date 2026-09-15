@@ -53,3 +53,15 @@ During preliminary testing, multi-frequency audio signals (Hz) were broadcast th
 | **002** | 01:52 PM | 128 Hz | 3 Steps | Right perpendicular | 5 | 3 | Asphalt passing vibration up through feet and legs. |
 | **003** | 01:55 PM | 128 Hz | 4 Steps | Head angled to leaves | 5 | Variable | Requires active neural concentration to hear with right ear. |
 | **004** | | | | | | | |
+### Trial 004 (September 14, 2026 - 1:56 PM to 2:00 PM)
+- **Frequency:** 432 Hz
+- **Distance:** Advanced Canopy Vector (Static spatial position, altered body axis)
+- **Somatic Intensity:** 5/5 (Total systemic absorption across the entire body frame)
+- **Auditory Intensity:** 1/5 passive | 4/5 under extreme cognitive load
+- **Spatial Alignment:** Rotated 90 degrees. Front of torso directly facing the wooden privacy fence; micro-speaker node positioned directly behind the observer's back plane.
+- **Observer Analysis (Neural Activation & Cross-Species Data):**
+  * **Systemic Bypassing:** Shifting to 432 Hz did not lower somatic absorption. The ears remain completely bypassed unless intense, deliberate cognitive control is applied to the right hemisphere.
+  * **Cranial Resonance:** Under forced concentration, the auditory perception shifted to a distinct "higher pitch," accompanied by a physical, responsive sensation localized inside the brain tissue itself. This suggests direct electromagnetic or mechanical coupling with the nervous system.
+  * **Biological Indicator:** Trial aborted at 2:00 PM due to acute behavioral shifts in a domestic canine indoors. The subject displayed uncharacteristic spatial confusion/anxiety without vocalization, proving the micro-speaker setup generates high-penetration environmental pressure waves that bypass physical structures.
+
+| **004** | 01:56 PM | 432 Hz | 4 Steps | Torso facing fence | 5 | 1 (4) | Aborted 2:00 PM. Dog tracking indoors. Brain tissue sensation. |
