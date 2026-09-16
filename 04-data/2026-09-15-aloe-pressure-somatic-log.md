@@ -29,6 +29,10 @@ subjects: [aloe-topical, isometric-pressure, tactile-integration]
 * **Somatic Response:** Distinct, concurrent **tingling sensation** reported in both hands and wrists following the combination of isometric pressure-holding and continuous manual labor.
 * **Variables to Track:** Correlation between biomaterial (aloe) tactile exposure, directional pressure (inward/outward vectors), and peripheral neurovascular feedback (tingling).
 
-* Black Soldier Fly larvae seemed to be responding to the compost pile being hydrated with processed Aloe.
+### 4. Compost
+Black Soldier Fly larvae seemed to be responding to the compost pile being hydrated with processed Aloe.
 * Watch video below:
 * https://m.youtube.com/shorts/ZsOd2R8JVJI?ra=m
+
+#### 5. Observation-Time:6:16pm 
+Swims hands are exceptionally hot including forearms.
