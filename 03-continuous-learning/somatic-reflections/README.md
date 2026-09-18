@@ -36,7 +36,3 @@ Existing note bodies in this folder are preserved as originally written. New or 
 - Use **Pattern Noticed** for recurring themes or relationships the writer thinks may be present.
 - Use **Supporting Notes** for references to related notes, external sources, or evidence that informs the reflection.
 - Keep reflection, evidence, and hypothesis distinct even when they appear in the same note.
-
-## Current Notes
-
-- [`Writing_001.md`](Writing_001.md)

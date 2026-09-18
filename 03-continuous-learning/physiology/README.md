@@ -36,8 +36,3 @@ Existing note bodies in this folder are preserved as originally written. New or 
 - Keep **Direct Experience or Measurement** limited to what was directly felt, observed, tracked, or measured.
 - Use **Interpretation / Hypothesis** for possible mechanisms or explanations, and keep them framed as hypotheses.
 - Avoid diagnosing, prescribing treatment, or presenting unsupported medical conclusions as fact.
-
-## Current Notes
-
-- [`mucus-production-and-clearance.md`](mucus-production-and-clearance.md)
-- [`stagnant_behavior-notes_001.md`](stagnant_behavior-notes_001.md)
