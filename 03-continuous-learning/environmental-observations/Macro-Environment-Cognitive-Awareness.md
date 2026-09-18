@@ -1,3 +1,7 @@
+> [!NOTE]
+> Legacy mixed note preserved as originally written below.
+> Filed under `environmental-observations/` by dominant subject per the `03-continuous-learning/` classification convention.
+
 **Date:** September 5, 2026
 **Time:** 11:20 a.m.
 **Location:** Honolulu, Hawaii 
