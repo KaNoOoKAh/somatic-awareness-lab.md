@@ -2,15 +2,6 @@ Date: Sunday, August 30, 26 Location: Oahu, Honolulu, Hawaii
 
 ## Somatosensory & Proprioceptive Mapping: Immersion and Cranial Pressure Log
 
-Raw talk to speak data at the bottom of the page
- - the reason why I included is to a raw data log of the pronunciations that the system is being able to interpret. 
- - To also see my regression or progress in real time. It gives me a real idea of the amount of activity I need to complete before being able to talk and think normally. 
- - What ever is causing my symptoms is also causing other organisms confusion. I truly believe this is one of the main reasons many people and life forms are dying and suffering. -Kanoookah & ICeI^3
-
-Repository: KANOOOKAH/somatic – cognitive – function
-
-#### Related Content: https://youtube.com/shorts/jFJyxturdJY?is=SdvPQz2uJbzG_Q6D
-
 Current State: Post-immersion, active crouched recovery phase.
 
 Structured Observations
