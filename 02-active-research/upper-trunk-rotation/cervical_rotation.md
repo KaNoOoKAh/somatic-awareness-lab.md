@@ -1,5 +1,9 @@
 ### Somatic Anchor Specification: Upper Body Cervical Rotation 
 
+Date: (Searching)
+Approximate Date: Early September 2026
+Entry Written: September 17, 2026
+
 Summary: 
 * Turning with the spine instead of using the skin and muscles surrounding the face and neck
 * Directional Energy applied to the isolated target areas makes contraction of the muscles, tissues, and skin much easier  
