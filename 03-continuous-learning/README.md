@@ -51,6 +51,8 @@ Claims drawn from external research should include citations. If a statement is 
 
 ## Shared Note Template
 
+This template is guidance for future notes. Existing notes preserved from earlier work may keep their original date phrasing and header style.
+
 ```md
 # Title
 **Date:** YYYY-MM-DD (preferred for new notes)
