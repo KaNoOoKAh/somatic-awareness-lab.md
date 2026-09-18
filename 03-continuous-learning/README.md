@@ -52,7 +52,7 @@ Use the README in each subfolder as the required template reference.
 - [`somatic-reflections/README.md`](somatic-reflections/README.md)
 
 ### Research notes: environmental observations
-- [`environmental-observations/Macro-Environment-Cognitive-Awareness.md`](environmental-observations/Macro-Environment-Cognitive-Awareness.md)
+- [`environmental-observations/Macro-Environment-Cognitive-Awareness.md`](environmental-observations/Macro-Environment-Cognitive-Awareness.md) — legacy mixed note, kept intact and filed here by dominant subject
 - [`environmental-observations/Sleeping_Foliage-09.05.2026.md`](environmental-observations/Sleeping_Foliage-09.05.2026.md)
 
 ### Research notes: physiology
