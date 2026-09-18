@@ -53,7 +53,7 @@ Claims drawn from external research should include citations. If a statement is 
 
 ```md
 # Title
-**Date:** YYYY-MM-DD
+**Date:** YYYY-MM-DD (preferred for new notes)
 **Context:**
 
 ## Observation
