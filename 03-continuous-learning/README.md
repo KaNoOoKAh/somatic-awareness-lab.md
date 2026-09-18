@@ -1,20 +1,57 @@
 # 03 — Continuous Learning
 
-Topics and skills to **keep learning** over time — not one-off lessons, but ongoing practice and deepening.
+`03-continuous-learning/` is the repository section for ongoing research notes, recurring questions, and working hypotheses that are still being developed over time.
 
-## What Goes Here
+## Taxonomy
 
-- Reading lists and annotated bibliographies
-- Course notes and summaries
-- Practice exercises and reflections
-- Links to journals, newsletters, and communities to follow
+This directory is organized by the **primary note type** of each file:
 
-## Learning Threads
+- [`environmental-observations/`](environmental-observations/README.md) — field notes centered on what was directly observed in an environment, organism, habitat, or intervention context.
+- [`physiology/`](physiology/README.md) — notes about body systems, physiological processes, or measurements, including cautious working hypotheses.
+- [`somatic-reflections/`](somatic-reflections/README.md) — personal reflections, first-person pattern noticing, and questions arising from lived experience.
 
-| Thread | Description | Last Updated |
-|--------|-------------|--------------|
-| Embodied perception | Ongoing study of how the body shapes cognition | — |
-| Advanced signal processing | Deeper methods for biosignal analysis | — |
-| Research methodology | Experimental design, statistics, and ethics | — |
+## Preservation Rule
 
-<!-- Add rows as new learning threads emerge -->
+All existing research note bodies in this directory are preserved exactly as written. The reorganization work in this folder is limited to documentation, folder structure, and moving files into a clearer taxonomy.
+
+## Shared Classification Convention
+
+When a note includes mixed material, keep the file intact and classify it by its **primary content type**:
+
+1. Put the note in `environmental-observations/` when direct environmental or organism observation is the main record.
+2. Put the note in `physiology/` when body processes, measurements, or physiological mechanisms are the main focus.
+3. Put the note in `somatic-reflections/` when the note is primarily reflective, experiential, or question-driven in a personal voice.
+4. Do not split an existing note into separate files just because it contains both observations and hypotheses.
+5. Within any note, treat direct observations/measurements as distinct from interpretations or hypotheses.
+
+## Folder-Type Formatting Rules
+
+Use the README in each subfolder as the required template reference.
+
+### Environmental observations
+- Required fields: Date, Time, Location, Conditions/Context, Direct Observation, Interpretation/Hypothesis, Evidence/Media, Follow-up.
+- The **Direct Observation** section should contain only what was directly seen, heard, measured, or recorded.
+- Any explanation, pattern claim, or causal idea belongs under **Interpretation/Hypothesis** and should remain framed as a hypothesis.
+
+### Physiology
+- Required fields: Date, Context, Body Area/System, Direct Experience or Measurement, Variables/Conditions, Interpretation/Hypothesis, Sources, Follow-up.
+- Record direct experience and measurements carefully.
+- Avoid diagnosis and avoid unsupported medical claims.
+
+### Somatic reflections
+- Required fields: Date, Context, Experience/Reflection, Pattern Noticed, Interpretation/Hypothesis, Supporting Notes, Next Question.
+- Preserve the writer's personal voice.
+- Distinguish reflection and pattern noticing from evidence.
+
+## Current File Index
+
+### Environmental observations
+- [`environmental-observations/Macro-Environment-Cognitive-Awareness.md`](environmental-observations/Macro-Environment-Cognitive-Awareness.md)
+- [`environmental-observations/Sleeping_Foliage-09.05.2026.md`](environmental-observations/Sleeping_Foliage-09.05.2026.md)
+
+### Physiology
+- [`physiology/mucus-production-and-clearance.md`](physiology/mucus-production-and-clearance.md)
+- [`physiology/stagnant_behavior-notes_001.md`](physiology/stagnant_behavior-notes_001.md)
+
+### Somatic reflections
+- [`somatic-reflections/Writing_001.md`](somatic-reflections/Writing_001.md)
