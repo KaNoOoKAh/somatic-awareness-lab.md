@@ -21,7 +21,7 @@ This behavior mimics natural **nyctinasty** (nocturnal "sleep" movements), a phe
   - Sea salt (NaCl + trace minerals)
   - Pure water dilution
 - **Response Latency:** Immediate / Rapid — visible folding initiated within minutes of liquid application.
-- **Response Type:** Induced Nastic Movement — non-directional kinetic movement triggered by external stimulus.
+- **Response Type:** Observed Foliar Movement — leaf-folding response recorded after external stimulation; exact movement class unconfirmed.
 - **Primary Mechanism:** Pulvinular Turgor Shifts — hydrostatic pressure changes within localized cell nodes.
 
 ## 3. Postulated Biological Mechanisms
