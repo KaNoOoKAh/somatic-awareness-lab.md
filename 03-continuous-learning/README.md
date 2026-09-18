@@ -46,10 +46,11 @@ Use the README in each subfolder as the required template reference.
 
 ## Current File Index
 
-This index covers the other current files in `03-continuous-learning/` as organized by this reorganization.
+This index covers every current file in `03-continuous-learning/` as organized by this reorganization.
 Update this index whenever files in this section are added, moved, renamed, or removed.
 
 ### Directory documentation
+- [`README.md`](README.md)
 - [`environmental-observations/README.md`](environmental-observations/README.md)
 - [`physiology/README.md`](physiology/README.md)
 - [`somatic-reflections/README.md`](somatic-reflections/README.md)
