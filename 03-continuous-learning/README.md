@@ -13,6 +13,7 @@ This area stores ongoing learning notes, field observations, physiology-focused 
 │   └── macro-environment-cognitive-awareness.md
 ├── physiology/
 │   ├── README.md
+│   ├── 2026-09-05-bathtub-nasal-observation.md
 │   └── mucus-production-and-clearance.md
 └── somatic-reflections/
     ├── README.md
@@ -32,6 +33,7 @@ Notes centered on field conditions, organism behavior, plant response, and envir
 Notes focused on body processes, regulation, and tracking frameworks.
 
 - [`physiology/mucus-production-and-clearance.md`](./physiology/mucus-production-and-clearance.md)
+- [`physiology/2026-09-05-bathtub-nasal-observation.md`](./physiology/2026-09-05-bathtub-nasal-observation.md)
 
 ### Somatic Reflections
 Notes centered on writing, behavior, embodied interpretation, and exploratory reflection.
@@ -51,7 +53,7 @@ Claims drawn from external research should include citations. If a statement is 
 
 ## Shared Note Template
 
-This template is guidance for future notes. Existing notes preserved from earlier work may keep their original date phrasing and header style.
+This template is guidance for future notes. Existing notes preserved from earlier work — including notes moved during this reorganization — may keep their original date phrasing and header style.
 
 ```md
 # Title
