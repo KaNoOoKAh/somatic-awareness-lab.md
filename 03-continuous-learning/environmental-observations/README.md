@@ -36,6 +36,7 @@ Existing note bodies in this folder are preserved as originally written. Some le
 - **Direct Observation** records only what was directly seen, heard, measured, or otherwise recorded.
 - **Interpretation / Hypothesis** is for possible explanations, pattern claims, or causal guesses.
 - If the note includes both observed details and ideas about what they mean, keep both sections but do not present the interpretation as established fact.
+- Legacy preserved notes may include multiple timestamped observation entries in one file; keep those entries together and classify the file by its dominant environmental subject.
 
 ## Current Notes
 

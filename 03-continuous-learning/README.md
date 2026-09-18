@@ -12,7 +12,7 @@ This directory is organized by the **primary note type** of each file:
 
 ## Preservation Rule
 
-All existing research note bodies in this directory are preserved exactly as written. The reorganization work in this folder is limited to documentation, folder structure, and moving files into a clearer taxonomy.
+All pre-existing research note bodies that were already in this directory before this reorganization are preserved exactly as written. The reorganization work in this folder is limited to documentation, folder structure, and moving those existing files into a clearer taxonomy.
 
 ## Shared Classification Convention
 
