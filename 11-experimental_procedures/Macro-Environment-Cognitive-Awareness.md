@@ -2,7 +2,7 @@
 **Time:** 11:20 a.m.
 **Location:** Honolulu, Hawaii 
 
-### **Project Addendum: Supplemental Nutrient Delivery and Compost Hydration**
+### **Supplemental Nutrient Delivery and Compost Hydration**
 
 ### **1. Rationale and Objective**
 
