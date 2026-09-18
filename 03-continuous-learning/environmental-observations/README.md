@@ -4,7 +4,7 @@
 
 Use this folder for notes whose primary purpose is to document an environment, organism, habitat, intervention, or event through direct observation.
 
-Existing note bodies in this folder are preserved as originally written. New or revised notes should follow the format below while keeping direct observation distinct from interpretation.
+Existing note bodies in this folder are preserved as originally written. Some legacy notes may still contain secondary reflection or physiology material; those files stay intact and are placed here only because environmental observation is their dominant subject. New or revised notes should follow the format below while keeping direct observation distinct from interpretation.
 
 ## Required Format
 

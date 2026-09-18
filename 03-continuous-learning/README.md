@@ -21,8 +21,9 @@ When a note includes mixed material, keep the file intact and classify it by its
 1. Put the note in `environmental-observations/` when direct environmental or organism observation is the main record.
 2. Put the note in `physiology/` when body processes, measurements, or physiological mechanisms are the main focus.
 3. Put the note in `somatic-reflections/` when the note is primarily reflective, experiential, or question-driven in a personal voice.
-4. Do not split an existing note into separate files just because it contains both observations and hypotheses.
-5. Within any note, treat direct observations/measurements as distinct from interpretations or hypotheses.
+4. Do not split an existing note into separate files just because it contains both observations and hypotheses or secondary material from another category.
+5. Legacy mixed notes stay intact and are filed by dominant subject so their original bodies remain preserved.
+6. Within any note, treat direct observations/measurements as distinct from interpretations or hypotheses.
 
 ## Folder-Type Formatting Rules
 
@@ -45,13 +46,18 @@ Use the README in each subfolder as the required template reference.
 
 ## Current File Index
 
-### Environmental observations
+### Directory documentation
+- [`environmental-observations/README.md`](environmental-observations/README.md)
+- [`physiology/README.md`](physiology/README.md)
+- [`somatic-reflections/README.md`](somatic-reflections/README.md)
+
+### Research notes: environmental observations
 - [`environmental-observations/Macro-Environment-Cognitive-Awareness.md`](environmental-observations/Macro-Environment-Cognitive-Awareness.md)
 - [`environmental-observations/Sleeping_Foliage-09.05.2026.md`](environmental-observations/Sleeping_Foliage-09.05.2026.md)
 
-### Physiology
+### Research notes: physiology
 - [`physiology/mucus-production-and-clearance.md`](physiology/mucus-production-and-clearance.md)
 - [`physiology/stagnant_behavior-notes_001.md`](physiology/stagnant_behavior-notes_001.md)
 
-### Somatic reflections
+### Research notes: somatic reflections
 - [`somatic-reflections/Writing_001.md`](somatic-reflections/Writing_001.md)
