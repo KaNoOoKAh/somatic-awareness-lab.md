@@ -48,6 +48,7 @@ Use the following labels when adding or revising notes in this directory:
 - **Observation:** direct sensory report, field note, or event record.
 - **Interpretation / Hypothesis:** a proposed explanation, pattern, or meaning drawn from observations.
 - **Source / Evidence:** supporting material such as prior notes, quoted material, measurements, or external citations.
+- **Context:** the date, location, conditions, or setup needed to understand the note.
 
 Claims drawn from external research should include citations. If a statement is uncited and not directly observed, keep it framed as interpretation or hypothesis rather than conclusion.
 

@@ -12,13 +12,17 @@ This behavior mimics natural **nyctinasty** (nocturnal "sleep" movements), a phe
 
 ## 2. Experimental Data Profile
 
-| Parameter | Observed Data Value | Functional Metric / Description |
-| :--- | :--- | :--- |
-| **Stimulus Type** | Complex Liquid Foliar Spray | Fine aqueous mist applied directly to upper leaf surfaces. |
-| **Mixture Composition** | Multi-Extract Botanical Solution | • Unfermented *Aloe vera* pulp gel<br>• *Aloe vera* root extract<br>• Processed Dragon Fruit (*Hylocereus*) cutting fluid<br>• Cane sugar (sucrose)<br>• Sea salt (NaCl + trace minerals)<br>• Pure water dilution |
-| **Response Latency** | Immediate / Rapid | Visible folding initiated within minutes of liquid application. |
-| **Response Type** | Induced Nastic Movement | Non-directional kinetic movement triggered by external stimulus. |
-| **Primary Mechanism** | Pulvinular Turgor Shifts | Hydrostatic pressure changes within localized cell nodes. |
+- **Stimulus Type:** Complex Liquid Foliar Spray — fine aqueous mist applied directly to upper leaf surfaces.
+- **Mixture Composition:** Multi-Extract Botanical Solution
+  - Unfermented *Aloe vera* pulp gel
+  - *Aloe vera* root extract
+  - Processed Dragon Fruit (*Hylocereus*) cutting fluid
+  - Cane sugar (sucrose)
+  - Sea salt (NaCl + trace minerals)
+  - Pure water dilution
+- **Response Latency:** Immediate / Rapid — visible folding initiated within minutes of liquid application.
+- **Response Type:** Induced Nastic Movement — non-directional kinetic movement triggered by external stimulus.
+- **Primary Mechanism:** Pulvinular Turgor Shifts — hydrostatic pressure changes within localized cell nodes.
 
 ## 3. Postulated Biological Mechanisms
 This rapid response is hypothesized to be driven by a combination of distinct plant survival strategies and chemical-osmotic triggers:
