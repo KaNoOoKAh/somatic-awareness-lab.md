@@ -44,10 +44,9 @@ Use the README in each subfolder as the required template reference.
 - Preserve the writer's personal voice.
 - Distinguish reflection and pattern noticing from evidence.
 
-## Current File Index
+## Current File Links
 
-This index covers every current file in `03-continuous-learning/` as organized by this reorganization.
-Update this index whenever files in this section are added, moved, renamed, or removed.
+These links cover the current files in `03-continuous-learning/` at the time of this reorganization. They are a convenience snapshot; the directory structure remains the source of truth.
 
 ### Directory documentation
 - [`README.md`](README.md)
