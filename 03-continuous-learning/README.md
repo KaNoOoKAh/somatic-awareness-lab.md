@@ -1,20 +1,75 @@
 # 03 — Continuous Learning
 
-Topics and skills to **keep learning** over time — not one-off lessons, but ongoing practice and deepening.
+This area stores ongoing learning notes, field observations, physiology-focused study notes, and somatic reflections that are still being developed over time.
 
-## What Goes Here
+## Directory Index
 
-- Reading lists and annotated bibliographies
-- Course notes and summaries
-- Practice exercises and reflections
-- Links to journals, newsletters, and communities to follow
+```text
+03-continuous-learning/
+├── README.md
+├── environmental-observations/
+│   ├── README.md
+│   ├── 2026-09-05-sleeping-foliage.md
+│   └── macro-environment-cognitive-awareness.md
+├── physiology/
+│   ├── README.md
+│   ├── 2026-09-05-bathtub-nasal-observation.md
+│   └── mucus-production-and-clearance.md
+└── somatic-reflections/
+    ├── README.md
+    ├── stagnant-behavior-notes-001.md
+    └── writing-001.md
+```
 
-## Learning Threads
+## Folders and Files
 
-| Thread | Description | Last Updated |
-|--------|-------------|--------------|
-| Embodied perception | Ongoing study of how the body shapes cognition | — |
-| Advanced signal processing | Deeper methods for biosignal analysis | — |
-| Research methodology | Experimental design, statistics, and ethics | — |
+### Environmental Observations
+Notes centered on field conditions, organism behavior, plant response, and environmental context.
 
-<!-- Add rows as new learning threads emerge -->
+- [`environmental-observations/macro-environment-cognitive-awareness.md`](./environmental-observations/macro-environment-cognitive-awareness.md)
+- [`environmental-observations/2026-09-05-sleeping-foliage.md`](./environmental-observations/2026-09-05-sleeping-foliage.md)
+
+### Physiology
+Notes focused on body processes, regulation, and tracking frameworks.
+
+- [`physiology/mucus-production-and-clearance.md`](./physiology/mucus-production-and-clearance.md)
+- [`physiology/2026-09-05-bathtub-nasal-observation.md`](./physiology/2026-09-05-bathtub-nasal-observation.md)
+
+### Somatic Reflections
+Notes centered on writing, behavior, embodied interpretation, and exploratory reflection.
+
+- [`somatic-reflections/writing-001.md`](./somatic-reflections/writing-001.md)
+- [`somatic-reflections/stagnant-behavior-notes-001.md`](./somatic-reflections/stagnant-behavior-notes-001.md)
+
+## Note Convention
+
+Use the following labels when adding or revising notes in this directory:
+
+- **Observation:** direct sensory report, field note, or event record.
+- **Interpretation / Hypothesis:** a proposed explanation, pattern, or meaning drawn from observations.
+- **Source / Evidence:** supporting material such as prior notes, quoted material, measurements, or external citations.
+- **Context:** the date, location, conditions, or setup needed to understand the note.
+
+Claims drawn from external research should include citations. If a statement is uncited and not directly observed, keep it framed as interpretation or hypothesis rather than conclusion.
+
+## Shared Note Template
+
+This template is guidance for future notes. Existing notes preserved from earlier work — including notes moved during this reorganization — may keep their original date phrasing and header style.
+
+```md
+# Title
+**Date:** YYYY-MM-DD (preferred for new notes)
+**Context:**
+
+## Observation
+- What was directly noticed, measured, or recorded?
+
+## Interpretation / Hypothesis
+- What pattern or explanation is being proposed?
+
+## Source / Evidence
+- Prior note, measurement, quoted source, or citation
+
+## Next Step
+- Follow-up question, comparison, or method update
+```
