@@ -1,3 +1,7 @@
+> [!NOTE]
+> Legacy mixed note preserved as originally written below.
+> Filed under `environmental-observations/` by dominant subject per the `03-continuous-learning/` classification convention.
+
 **Date:** September 5, 2026
 **Time:** 11:20 a.m.
 **Location:** Honolulu, Hawaii 
@@ -50,6 +54,9 @@ A controlled, highly diluted sugar-and-honey solution (under 1–2% concentratio
 #### Observation 3: Stomata Management Protocols
 
 * To prevent cellular suffocation or the blockage of microscopic plant pores (stomata), application will be restricted to the upper leaf surfaces during early morning hours when transpiration cycles are optimal.
+
+> [!NOTE]
+> Preserved legacy mixed-content subsection follows.
 
 *   Further research is underway to establish precise visual indicators for open versus closed stomatal states. I am worried due to what happened during my second bathtub experiment.
    - Water filled my right nostril which is the nostril I have difficulty breathing with unless full directed control/concentration is occurring. I was not able to suck in the water or “absorb” it in order to recreate the sensation that normally happens.

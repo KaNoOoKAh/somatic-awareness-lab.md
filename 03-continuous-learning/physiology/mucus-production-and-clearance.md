@@ -1,3 +1,7 @@
+> [!NOTE]
+> Legacy preserved note moved into `physiology/`.
+> Original note text follows unchanged.
+
 # Continuous Learning: Mucus Production and Clearance
 
 ## Purpose
