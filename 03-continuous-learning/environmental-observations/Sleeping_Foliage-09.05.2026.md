@@ -1,3 +1,7 @@
+> [!NOTE]
+> Legacy preserved note moved into `environmental-observations/`.
+> Original note text follows unchanged.
+
 # Research Log: Induced Foliar Nastic Movements in Domestic Flora
 **Date:** September 5, 2026  
 **Timestamp:** 19:24:12 HST  

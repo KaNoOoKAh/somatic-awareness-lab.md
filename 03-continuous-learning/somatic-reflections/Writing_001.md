@@ -1,3 +1,7 @@
+> [!NOTE]
+> Legacy preserved note moved into `somatic-reflections/`.
+> Original note text follows unchanged.
+
 Time: 1:26 p.m.
 Date: 09/05/2026
 Day: Saturday

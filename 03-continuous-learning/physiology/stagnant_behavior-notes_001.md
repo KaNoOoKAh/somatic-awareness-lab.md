@@ -1,3 +1,7 @@
+> [!NOTE]
+> Legacy preserved note moved into `physiology/`.
+> Original note text follows unchanged.
+
 ### Molecular-Level Behavior When Nutrients Are Not Actively Processed
 (Active Research Addition — Somatophysical Integration)
 
