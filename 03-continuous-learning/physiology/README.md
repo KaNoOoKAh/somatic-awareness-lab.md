@@ -4,7 +4,7 @@
 
 Use this folder for notes focused primarily on body systems, body regions, physiological mechanisms, symptoms, direct measurements, or structured self-observation related to physiology.
 
-Existing note bodies in this folder are preserved as originally written. New or revised notes should use the format below and should avoid diagnosing conditions or making unsupported medical claims.
+Existing note bodies in this folder are preserved as originally written. New notes created in this folder, or legacy notes that are intentionally rewritten later, should use the format below and should avoid diagnosing conditions or making unsupported medical claims.
 
 ## Required Format
 

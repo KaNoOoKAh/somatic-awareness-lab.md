@@ -4,7 +4,7 @@
 
 Use this folder for notes that primarily capture first-person reflection, personal pattern noticing, experiential writing, and open questions that arise from somatic practice or observation.
 
-Existing note bodies in this folder are preserved as originally written. New or revised notes should follow the format below while preserving personal voice and clearly separating reflection from evidence.
+Existing note bodies in this folder are preserved as originally written. New notes created in this folder, or legacy notes that are intentionally rewritten later, should follow the format below while preserving personal voice and clearly separating reflection from evidence.
 
 ## Required Format
 
