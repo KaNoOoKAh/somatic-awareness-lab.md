@@ -1,8 +1,11 @@
 Somatic Pressure Displacement Event
 Active Research Paper — Somatic Awareness Lab
 
-1. Title
-Somatic Pressure Displacement During Restricted Breathing Episode around the year 2023
+-**Category:** Observation 
+-**Date:** 
+-**Approximate Date:** 2023
+-**Rewrite:** 09.17.2026 
+1. Somatic Pressure Displacement During Restricted Breathing Episode
 
 2. Research Context
 This entry documents a spontaneous somatic event involving restricted breathing, throat soreness, shallow inhalation, and light‑headedness. The purpose is to analyze the internal sensations, mechanical responses, and subjective resolution process using somatic‑awareness methodology.
