@@ -25,8 +25,6 @@ I noticed that when I planted my feet and I turned my upper body, and I tried to
 
 * But immediately after the initial observation was made and after the feeling subsided. I could feel the area when doing a certain motion
 
-*  When I wasn’t actively applying inward/outward energy/force to the back area. I want to say I couldn’t feel it. 
-  
 *  Not controlling my posture was one of the main factors when I would feel the trapezius in its padded state. When my shoulders were lowered and the upper trapezius on both sides were  leaning forward or being stretched due to my shoulder placement. I could feel the lower trapezius.
 
 *  The moment I applied concentration and control of all skin areas, muscle groups, and my posture. The padded trapezius would disappear.
