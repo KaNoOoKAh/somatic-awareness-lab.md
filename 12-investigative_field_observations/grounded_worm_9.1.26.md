@@ -23,7 +23,7 @@ I noticed that when I planted my feet and I turned my upper body, and I tried to
 
 * Edit(09.20.2026)-I want to retract the padded area going away statement. I felt that padded area until (09.20.2026) now. I could feel it when doing different activities.
 
-* But immediately after the initial identification and acknowledgment and when the feeling subsided. I could feel the area when doing a certain motion
+* But immediately after the initial observation was made and after the feeling subsided. I could feel the area when doing a certain motion
 
 *  When I wasn’t actively applying inward/outward energy/force to the back area. I want to say I couldn’t feel it. 
   
