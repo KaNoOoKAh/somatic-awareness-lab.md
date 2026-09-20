@@ -36,3 +36,5 @@ I noticed that when I planted my feet and I turned my upper body, and I tried to
 On the actual ex—or the amount of time that it took to actually put my body back into shape, even though my eyes were closed and my brain thought that I was still turned, but my body was upright and aligned. It took like a few minutes.
 
 I’m also noticing that the center of gravity is like weird if I stand upright and I lock my knees just a little bit, it feels like it’s like my entire back.
+
+#### EDIT(09.20.2026)-I’m certain that I am now able to control or change the “center of gravity”. 
