@@ -23,7 +23,7 @@ I noticed that when I planted my feet and I turned my upper body, and I tried to
 
 * Edit(09.20.2026)-I want to retract the padded area going away statement. I felt that padded area until (09.20.2026) now. I could feel it when doing different activities.
 
-* But immediately after the initial observation was made and after the feeling subsided. I could feel the area when doing a certain motion
+* But immediately after the initial observation was made and the feeling subsided. I could feel the area when initiating and sustaining certain motions.
 
 *  Not controlling my posture was one of the main factors when I would feel the trapezius in its padded state. When my shoulders were lowered and the upper trapezius on both sides were  leaning forward or being stretched due to my shoulder placement. I could feel the lower trapezius.
 
