@@ -1,4 +1,8 @@
-09-17-2026
+Date: 09-17-2026
+
+Location: Honolulu, Oahu, Hawaii
+
+Second Video Addition: 5:38a.m. on 2026-9-20
 
 I am noticing different colonies of organisms appearing to be in a craze and acting abnormally. 
 
@@ -14,4 +18,12 @@ Movements seemed to be influenced by vocal notes.
 
 https://m.youtube.com/shorts/BHeieaDKvmo?ra=m
 
-- This video was taken after I witnessed the ants operating under false control or structure. 
+- This video was taken after I witnessed the ants operating under false control or structure.
+#### Another Example:
+
+https://www.facebook.com/share/v/196XhW9Dti/?mibextid=wwXIfr 
+
+-There are many different examples of organisms acting in abnormal manners. You just need to know what to look for. 
+-My observations in https://www.GitHub.com/kanoookah/somatic-cognitive-function are real and true and barely touching the surface.
+
+
