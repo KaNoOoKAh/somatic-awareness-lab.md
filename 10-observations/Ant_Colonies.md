@@ -24,6 +24,7 @@ https://m.youtube.com/shorts/BHeieaDKvmo?ra=m
 https://www.facebook.com/share/v/196XhW9Dti/?mibextid=wwXIfr 
 
 -There are many different examples of organisms acting in abnormal manners. You just need to know what to look for. 
--My observations in https://www.GitHub.com/kanoookah/somatic-cognitive-function are real and true and barely touching the surface.
+-My observations in https://www.GitHub.com/kanoookah/somatic-cognitive-function detail other species being observed in un-calculated or un-educated ways. * I say that with love. 
 
 
+u
