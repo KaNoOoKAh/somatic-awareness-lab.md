@@ -1,4 +1,4 @@
-# Cranio-Cervical
+### Cranio-Cervical
 
 ## Goal
 Track active research focused on cervical rotation, cranial positioning, and related somatic anchor observations.
