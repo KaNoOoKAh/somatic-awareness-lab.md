@@ -1,7 +1,7 @@
-# Tooth Percussion
+# Oral and Maxillofacial
 
 ## Goal
-Track the active tooth percussion and pain-localization research thread.
+Track active oral and maxillofacial research threads (mouth, jaw, teeth, and gums), including tooth percussion and pain-localization observations.
 
 ## Status
 Active.
