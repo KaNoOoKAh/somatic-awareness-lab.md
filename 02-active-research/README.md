@@ -23,4 +23,12 @@ Create one sub-folder per project, e.g.:
 
 ## Current Projects
 
-<!-- Add project folders and update this list as you work -->
+| Project Folder | Focus |
+|---|---|
+| `acoustic-perception/` | Directional sound, somatic resonance, and auditory/tactile perception studies |
+| `cranio-cervical/` | Cervical rotation and cranial-position observations |
+| `environmental-reregulation/` | Nutrient delivery, compost hydration, and wildlife support interventions |
+| `injection-observations/` | Post-injection somatic awareness notes |
+| `respiration/` | Respiratory pathway and immersion-related studies |
+| `somatic-pressure-dynamics/` | Pressure-shift mapping and related cross-species observations |
+| `tooth-percussion/` | Tooth percussion and pain-localization research |
