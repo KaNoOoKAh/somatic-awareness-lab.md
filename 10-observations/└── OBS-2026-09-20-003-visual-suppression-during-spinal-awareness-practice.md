@@ -180,6 +180,61 @@ Physical adjustments and internal awareness did not appear synchronized automati
 The perceived map appeared to require renewed attention before reflecting posture changes.
 
 ---
+### Additional Observation: Transition From Surrounding Tissue Movement to Spinal-Centered Movement
+
+#### Description
+
+At the beginning of the exercise, attempts to move or focus on specific spinal regions appeared to produce responses primarily in the surrounding muscles and tissues.
+
+The targeted spinal region itself was difficult to perceive independently.
+
+#### Findings
+
+- Initial attempts to focus on a specific spinal region resulted in noticeable responses from nearby muscles and soft tissues.
+- The surrounding areas reacted more readily than the perceived spinal structure itself.
+- Repeated concentration was directed toward the spinal region.
+- Attention was repeatedly moved through the spine and surrounding areas.
+
+#### Additional Findings
+
+- As the exercise continued, maintaining attention on the spine became easier.
+- Awareness of individual spinal regions appeared to improve.
+- Movement gradually felt less dependent on surrounding muscular activity.
+- The perceived center of movement appeared to shift toward the spinal region itself.
+- The spine increasingly felt like the primary reference point around which surrounding structures moved.
+
+#### Learning
+
+Repeated attention appeared associated with a greater ability to distinguish the perceived spinal region from the surrounding tissues.
+
+The exercise progressed from awareness of surrounding muscular reactions toward awareness of a more central structural reference point.
+
+#### Interpretation
+
+This observation documents a subjective change in movement awareness.
+
+The experience progressed from:
+
+```text
+Surrounding Muscle Awareness
+              ↓
+Spinal Awareness
+              ↓
+Spinal-Centered Movement Awareness
+```
+
+This observation does not establish that individual vertebrae were moving independently. It records a perceived shift in awareness regarding where movement appeared to originate.
+
+#### Importance
+
+This observation is considered significant because it introduced a distinction between:
+
+- Awareness of muscles and tissues surrounding the spine.
+- Awareness of the spine as a central reference point for movement.
+
+The distinction became increasingly noticeable with continued practice and concentration.
+
+—-
 
 ## Observation: Mouth Fluid Production
 
