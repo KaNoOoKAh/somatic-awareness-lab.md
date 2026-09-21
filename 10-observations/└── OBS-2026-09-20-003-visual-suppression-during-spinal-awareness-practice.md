@@ -4,7 +4,7 @@ title: Visual Suppression During Spinal Awareness Practice
 date: 2026-09-20
 start-time: 18:55 HST
 recorded-time: 20:05 HST
-duration: 35-40 minutes
+duration: 45-55 minutes 
 location: Honolulu, Oahu, Hawaii
 type: observation
 status: recorded
