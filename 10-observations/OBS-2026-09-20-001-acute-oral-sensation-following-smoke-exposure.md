@@ -44,7 +44,7 @@ A cigarette was inhaled and smoke was introduced into the mouth.
 - The sensation occurred immediately following smoke exposure.
 - The oral cavity appeared more sensitive than expected during the session.
 - The sensation was primarily localized to the mouth.
-- I did forgot to try and redirect the sensation of any.
+- I did forget to try and redirect the sensation if any.
 - The roof of the mouth and top of the tongue sizzled.
 - 
 
@@ -52,9 +52,11 @@ A cigarette was inhaled and smoke was introduced into the mouth.
 
 The mouth tissues and tongue appeared highly noticeable during this session, producing a rapid response to smoke exposure.
 
+Smoke is hot.
+
 ### Confidence
 
-High
+Low (lol)
 
 ### Verification Required
 
