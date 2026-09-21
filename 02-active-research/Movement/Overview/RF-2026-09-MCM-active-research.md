@@ -26,6 +26,9 @@ RF-2026-09-MCM
 
 To investigate the relationship between automatic movement patterns and consciously directed movement patterns.
 
+While finding if controlled extension and contraction of limbs while actively applying control and concentrations to muscles, tissues, and skin.Can help retrain the body and mind. 
+
+
 ## Research Question
 
 What occurs when conscious attention and intentional control are applied to movements that normally operate automatically?
