@@ -314,6 +314,3 @@ Yes
 - Does spinal awareness consistently improve posture awareness?
 - Can awareness of the lower legs be improved through practice?
 - Can the distinction between eye closure and visual suppression be reproduced?
-
-
-Experimental Protocol: https://github.com/KaNoOoKAh/somatic-awareness-lab.md/blob/main/11-experimental_procedures/%20└──%20EXP-2026-09-001-spinal-awareness-alignment-protocol.md
