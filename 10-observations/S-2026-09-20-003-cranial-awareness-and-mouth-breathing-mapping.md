@@ -101,7 +101,7 @@ Yes
 
 ### Intensity
 
-Rear head awareness: ___ / 10
+Rear head awareness: 2 / 10
 
 ### Related Observations
 
