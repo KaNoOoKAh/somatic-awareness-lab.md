@@ -56,9 +56,11 @@ The mouth tissues and tongue appeared highly noticeable during this session, pro
 
 Smoke is hot.
 
+Emotional Confidence Level: Null
+
 ### Confidence
 
-Low (lol)
+High
 
 ### Verification Required
 
