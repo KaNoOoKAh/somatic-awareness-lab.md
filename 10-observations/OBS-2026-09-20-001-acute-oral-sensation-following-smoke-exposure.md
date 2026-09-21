@@ -36,7 +36,9 @@ This observation occurred during Session S-2026-09-20-003 while conducting mouth
 
 ### Description
 
-A cigarette was inhaled and smoke was introduced into the mouth.
+A no filter cigarette was inhaled and smoke was introduced into the mouth.
+
+Electronic smoking device does not produce the same affect.
 
 ### Findings
 
