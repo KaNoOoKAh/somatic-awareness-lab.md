@@ -42,13 +42,13 @@ The purpose was to observe localized oral responses and changes in sensation ove
 During exposure:
 
 - Flavor perception appeared relatively weak unless significant attention was directed toward the leaves.
-- Saliva production appeared to increase.
-- Saliva consistency appeared to become thicker than baseline.
+- Oral biofilm appeared to be in production.
+- Saliva and biofilm consistency appeared to become thinner than baseline when broken down or mixed with the chemical compounds of the leaves.
 - Areas in direct contact with the leaves appeared to undergo changes in perceived coating or biofilm thickness.
 - Different oral locations appeared to produce different sensations and salivary responses.
 - Movement of the leaves between oral regions appeared to coincide with changing perceptions of coating formation and removal.
 
-A saliva-leaf mixture accumulated on the floor of the mouth during the observation period.
+A thin saliva-leaf mixture accumulated on the floor of the mouth during the observation period.
 
 The mixture was expectorated rather than swallowed.
 
