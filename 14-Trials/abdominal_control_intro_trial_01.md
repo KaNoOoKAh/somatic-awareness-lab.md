@@ -4,7 +4,8 @@
 **Media:** https://youtu.be/DPgpCUR92bU  
 
 ## Purpose  
-This trial documents an introductory attempt to regain conscious control over abdominal regions through inward contraction rather than outward flexing.  
+This trial documents an introductory attempt to regain conscious control over abdominal regions through inward  contraction. While aLeo creating awareness annd a physical annd mental connection with other abdominal areas. 
+
 The goal is to rebuild mind–body connection, improve somatic awareness, and begin restoring physical control that has been disrupted or lost.
 
 Videos will be posted as progression logs throughout this process.
