@@ -9,7 +9,7 @@
 
 ## 1. Summary
 
-This entry explores hypothetical outcomes of partial facial submersion, combined with controlled nasal water intake and throat/lung-based breathing, to examine potential effects on ocular clarity, proprioception, and somatic regulation. No trials have been conducted yet; this is a question-gathering and hypothesis-formation stage.
+This entry explores hypothetical outcomes of partial facial submersion, combined with controlled nasal water intake and throat/lung-based breathing, to examine potential effects on ocular clarity, proprioception, and somatic regulation. 
 
 ---
 
@@ -29,7 +29,6 @@ This entry explores hypothetical outcomes of partial facial submersion, combined
 - What happens to the eyes during extended submersion?
 - Does pre-existing underwater visual fogginess change, intensify, or resolve with repeated or prolonged exposure?
 - Why do many people find it easy to open their eyes underwater as children but more difficult as adults?
-- Would repeated exposure improve baseline vision, even after fogginess normally clears upon removing the face from water?
 - Would visual "zoom" adjustment, depth perception, or focus control become easier to regulate over time?
 
 **Respiratory/nasal effects**
