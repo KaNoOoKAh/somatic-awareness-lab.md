@@ -4,7 +4,7 @@
 **Media:** https://youtu.be/DPgpCUR92bU  
 
 ## Purpose  
-This trial documents an introductory attempt to regain conscious control over abdominal regions through inward  contraction. While aLeo creating awareness annd a physical annd mental connection with other abdominal areas. 
+This trial documents an introductory attempt to regain conscious control over abdominal regions through inward  contraction. While also creating awareness and a physical and mental connection with other abdominal areas. 
 
 The goal is to rebuild mind–body connection, improve somatic awareness, and begin restoring physical control that has been disrupted or lost.
 
@@ -27,6 +27,8 @@ Breathing cycles (inhale/exhale) were used to observe how each section responds 
 - Independent control of each region is emerging but not yet consistent.  
 - Visual feedback from the video helps identify asymmetries and areas needing refinement.  
 - Some movements appear unstable or irregular, reflecting the current state of somatic disruption.
+- Applying control to other areas of the abdominal area can reveal which areas have good sensory response.
+- Awareness of these areas will reveal which types of directional energy the areas will need in order to be controlled a certain way.
 
 ## Next Steps  
 Future trials will focus on isolating **one abdominal region at a time**, including:
