@@ -22,7 +22,7 @@ This approach emphasizes internal engagement rather than pushing outward to “f
 Breathing cycles (inhale/exhale) were used to observe how each section responds and how awareness shifts with controlled contraction.
 
 ## Observations  
-- Physical contraction in a relaxed state has proven to be a key factor in being able to apply directional energy to the muscle, ligaments, tissue, and possibly skin in that specific area.** I am currently unsure if the state that contraction puts these areas is in is the reason, or if it’s just being conscious, aware, and in active control of that specific area doing the moment I apply different directions of directional energy.
+- Physical contraction in a relaxed state has proven to be a key factor in being able to apply directional energy to the muscle, ligaments, tissue, and possibly skin in that specific area.** I am currently unsure if the state that contraction puts these areas in is the reason, or if it’s just being conscious, aware, and in active control of that specific area doing the moment I apply different directions of directional energy.
 - Body alignment appears uneven or “out of place,” which is expected during early somatic retraining.  
 - Inward contraction provides clearer isolation of deep abdominal sections compared to outward flexing.  
 - Independent control of each region is emerging but not yet consistent.  
