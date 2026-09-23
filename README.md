@@ -1,5 +1,7 @@
 # Somatic Awareness Lab
 
+#### Created after HTTPS://www.github.com/kanoookah/somatic-cognitive-function
+
 ## Mission
 
 Somatic Awareness Lab exists to investigate whether modern humans possess unrecognized physical, sensory, motor, and awareness deficiencies that become visible through directed observation, experimentation, and repeated practice.
