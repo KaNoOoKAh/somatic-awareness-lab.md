@@ -14,6 +14,8 @@ This project seeks to determine:
 - What functions are operating inefficiently.
 - What functions may be underdeveloped.
 - What functions may have become disconnected from conscious awareness.
+- What energy absorption and dispersion does for the body and does the direction change how we can use/apply the energy for certain movements internally and externally.
+- Why certain movements have an "irregular" feeling.
 - Whether awareness of those functions can be improved through practice.
 
 ---
