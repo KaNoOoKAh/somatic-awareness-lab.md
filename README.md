@@ -15,7 +15,7 @@ This project seeks to determine:
 - What functions may be underdeveloped.
 - What functions may have become disconnected from conscious un-awareness.
 - How the body absorbs and disperses mechanical, sensory, and postural energy — and why actively controlled directional sensory/concentration influences how that energy can be applied to internal or external movement.
-- Why certain movements produce sensations that feel irregular, unstable, or inconsistent. But when applying a direction specific energy that movement then feels unawkward. 
+- Why certain movements produce sensations that feel irregular, unstable, or inconsistent — and why applying a direction‑specific form of attention or “energy” can make those same movements feel coordinated, natural, or unawkward.
 - Whether awareness of those functions can be improved through practice.
 ---
 
