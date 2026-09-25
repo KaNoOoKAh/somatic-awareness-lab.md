@@ -17,9 +17,6 @@ This project seeks to determine:
 - How the body absorbs and disperses mechanical, sensory, and postural energy — and whether directional changes influence how that energy can be applied to internal or external movement.
 - Why certain movements produce sensations that feel irregular, unstable, or inconsistent. 
 - Whether awareness of those functions can be improved through practice.
-- Does making like im dragonball z and absorbing a spiral of energy inhaled through the nose make me cool and if I actively direct and transfer through areas of the head, neck, and entire body. Will make me gohan strong.
-- What if i blow out like im godzilla mini me but im building a spiral of energy in the stomach and bringinng it up and out. Or redirect that massive energy sensation feeling and redirect it some where else.. 
-
 ---
 
 # Core Research Question
