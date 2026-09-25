@@ -17,7 +17,7 @@ This project seeks to determine:
 - How the body absorbs and disperses mechanical, sensory, and postural energy — and why actively controlled directional sensory/concentration influences how that energy can be applied to internal or external movement.
 - Why certain movements produce sensations that feel irregular, unstable, or inconsistent — and why applying a direction‑specific form of attention or “energy” can make those same movements feel coordinated, natural, or unawkward.
 - Whether awareness of those functions can be improved through practice.
-#### Important:Whether direction‑specific sensory control during eating or drinking affects physical or mental addictive tendencies.
+#### Important:Whether direction‑specific sensory control during breathing, eating, and drinking affects physical or mental addictive tendencies.
 ---
 
 # Core Research Question
