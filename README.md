@@ -15,7 +15,8 @@ This project seeks to determine:
 - What functions may be underdeveloped.
 - What functions may have become disconnected from conscious un-awareness.
 - How the body absorbs and disperses mechanical, sensory, and postural energy — and why actively controlled directional sensory/concentration influences how that energy can be applied to internal or external movement.
-- Why certain movements produce sensations that feel irregular, unstable, or inconsistent — and why applying a direction‑specific form of attention or “energy” can make those same movements feel coordinated, natural, or unawkward.
+- Why certain movements produce sensations that feel irregular, unstable, or inconsistent — and why applying a constant and stable form of direction‑specific attention & control while applying multi-directional “energy” can make those same movements feel coordinated, natural, or unawkward.
+- To examine whether applying deliberate directional cues or controlled sensory activation to the spinal cord–cranium axis reduces motor irregularities and increases ease, fluidity, or efficiency of movement.
 - Whether awareness of those functions can be improved through practice.
 #### Important:Whether direction‑specific sensory control during breathing, eating, and drinking affects physical or mental addictive tendencies.
 ---
