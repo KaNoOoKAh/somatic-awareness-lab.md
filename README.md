@@ -13,7 +13,7 @@ This project seeks to determine:
 - What functions are operating efficiently.
 - What functions are operating inefficiently.
 - What functions may be underdeveloped.
-- What functions may have become disconnected from conscious awareness.
+- What functions may have become disconnected from conscious un-awareness.
 - How the body absorbs and disperses mechanical, sensory, and postural energy — and why actively controlled directional changes influence how that energy can be applied to internal or external movement.
 - Why certain movements produce sensations that feel irregular, unstable, or inconsistent.
 - Whether awareness of those functions can be improved through practice.
