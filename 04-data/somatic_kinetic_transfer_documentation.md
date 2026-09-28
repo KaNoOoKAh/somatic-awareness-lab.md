@@ -56,7 +56,7 @@
 *   **Protocol:** EXTERNAL-STIMULI (Gustatory-Somatic Reflex)
 *   **Inputs:** Thin gas-like juice
 *   **Historical Context:** Practiced macro movements the previous night, priming back/shoulder pathways.
-*   **Somatic Observations:** Immediate sensory spike in mouth. Sensation rapidly migrated down the throat, connecting directly with the lower trapezius muscle group. Highly pronounced asymmetry noted: intense sensory presence on the left side, minimal presence on the right side.
+*   **Somatic Observations:** Immediate sensory spike in mouth. Sensation rapidly migrated to the back area, connecting directly with the lower trapezius muscle group. Highly pronounced asymmetry noted: intense sensory presence on the left side, minimal presence on the right side.
 
 ### [LOG-005] | Temporal Stamp: 1:50 PM
 *   **Protocol:** DYNAMIC-ENVIRONMENTAL-LOG (Yard Work)
