@@ -50,7 +50,7 @@
 ### [LOG-003] | Temporal Stamp: 1:37 PM – 1:41 PM
 *   **Protocol:** PROT-A (Cognitive Hydrodynamics - Focused Relaxation Trial 2)
 *   **Vector Path:** Forward Projective Vector
-*   **Somatic Observations:** Utilized deep cheek relaxation. Upon expelling water onto the compost pile, triggered an instantaneous, intense sensation localized entirely in the cheeks which dissipated quickly as tissues hit equilibrium.
+*   **Somatic Observations:** Utilized deep cheek relaxation. Upon expelling water onto the compost pile, triggered an instantaneous, intense sensation localized entirely in the cheeks which dissipated quickly as sensation traveled to areas of the face that have not be properly prepared or conditioned for energy or sensory transfer.
 
 ### [LOG-004] | Temporal Stamp: 1:45 PM
 *   **Protocol:** EXTERNAL-STIMULI (Gustatory-Somatic Reflex)
