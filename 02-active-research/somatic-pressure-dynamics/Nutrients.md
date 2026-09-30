@@ -6,9 +6,11 @@ Framework Status: Active Research (Phase 1: Protocol & Baseline Mapping)
 
 - What does it take to move plasma into something. what type of force? 
 
-- How much force does it take to move plasma into a syringe?
+- How much force does it take to move plasma? 
 
-- How much negative feedback/energy and contraction is needed in different areas of the body depending on size.
+- How much negative feedback/energy and contraction is needed to replicate the same movement.
+   -What direction should the plasma be moved.
+  How can I identify when plasma is moved from a certain area?
 
 Core Subject:
 
