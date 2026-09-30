@@ -12,6 +12,8 @@ Framework Status: Active Research (Phase 1: Protocol & Baseline Mapping)
    -What direction should the plasma be moved.
   How can I identify when plasma is moved from a certain area?
 
+- Is the collection of plasma in an area caused by neglect? Why is its contents studied more than its cause/affect/effect
+
 Core Subject:
 
 The interplay between mechanical force, directional pressure, emotional state, and cellular nutrient utilization in the human cranium and jaw.
