@@ -24,7 +24,8 @@ I. The Core Hypothesis"Nutrients and minerals within the human body do not opera
 
 Instead, their cellular entry, utilization, and structural integration require localized thresholds of physical force, directional pressure, and specific emotional/circulatory states. 
 
-Without meeting these targeted energy thresholds, minerals become biologically stagnant, manifesting as localized physical rigidity, muscle spasms, shaking, and uncoordinated motor control until a specific circumstantial or emotional catalyst restores systemic circulation and pressure." 
+Without meeting these targeted energy thresholds, minerals become biologically stagnant, manifesting as localized physical rigidity, muscle spasms, shaking, and uncoordinated motor control until a specific circumstantial or emotional catalyst restores systemic circulation and pressure.
+
 
 ——-
 
@@ -50,7 +51,9 @@ The Piezoelectric Effect in Cortical Bone. Applying directional compression or b
 
 The Stagnancy and Misfire Mechanism (Electrolyte Dysregulation)The Science: 
 
-When minerals like Magnesium (\[Mg^{2+}\]) or Calcium cannot efficiently cross cell membranes due to a lack of mechanical or chemical activation, nerve signaling breaks down, locking muscles into involuntary feedback loops [4].
+When minerals like Magnesium and Calcium cannot efficiently cross cell membranes due to a lack of mechanical or chemical activation, nerve signaling breaks down, and different areas seize to function.
+
+Yellow, yellow, and yellow. Why do you pop up everywhere 
 
 Reference: 
 
