@@ -53,4 +53,45 @@ To test how a pen handles directional shifts, practice these three shapes and lo
 ---
 
 ## 4. Insights & Personal Preferences
-* 
+
+
+
+——-
+
+## 5. Biomechanical Feedback & Core Engagement
+
+### Core vs. Extremity Control Modes
+
+* **Core-Driven Glide (Abdomen Anchor):**
+
+* Movement originates in the torso, which I think is incorrect. Energy transfers smoothly through the shoulder and arm. Hand remains relaxed, allowing fluid directional control of the pen.
+  
+* **Arm-Driven Tension (Extremity Focus):**
+
+Movement originates in the forearm or bicep. Causes muscle co-contraction and rigidity. Precision drops and fatigue sets in rapidly.
+
+### Daily Form Check
+
+Before writing, take a deep breath to engage the abdomen.
+
+Drop the shoulders and ensure the forearm is resting lightly on the desk, acting as a guide rather than a mechanical driver.
+
+Track how different ink viscosities (e.g., slick gel vs. resistant ballpoint) affect core-to-hand energy transfer.
+
+### 5b. Advanced Concept: Motor Equivalence & Alternate Anchors
+
+* **Replicating Core Control:** Once abdomen-driven control is mastered, the body can transfer this "anchoring feeling" to other deep muscle groups to achieve the same fluid pen movements.
+
+* **Secondary Anchor Zones:** 
+  * **The Lower Back & Pelvis:** Engaging the lumbar area to support the spine, taking pressure off the chest.
+  
+  * **The Scapula (Shoulder Blade):** Packing the shoulder blade downward and flat against the rib cage to act as a localized, stable platform for the upper arm.
+    
+  * **The Diaphragm:** Using controlled, rhythmic breathing to maintain a steady internal pressure without locking up the abdominal wall.
+    
+* **Primary Objective:**
+
+1. Distributing the physical workload across multiple major muscle groups prevents any single area from fatiguing during long writing or drawing sessions, keeping the hand continuously relaxed.
+
+2. Isolating instructions and nutrient delivery is a main factor. Instructions should be created and directed through neural activity. Energy can also be given or supplied by the muscles in the immediate area instead of the abdomen.
+
