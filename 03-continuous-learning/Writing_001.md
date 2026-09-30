@@ -93,5 +93,7 @@ Track how different ink viscosities (e.g., slick gel vs. resistant ballpoint) af
 
 1. Distributing the physical workload across multiple major muscle groups prevents any single area from fatiguing during long writing or drawing sessions, keeping the hand continuously relaxed.
 
-2. Isolating instructions and nutrient delivery is a main factor. Instructions should be created and directed through neural activity. Energy can also be given or supplied by the muscles in the immediate area instead of the abdomen.
+2. Isolating instructions and nutrient delivery is a main factor in correctly distributing certain process and functions to the correct areas.
+  
+3. Instructions should be created and directed through neural activity. Energy can also be given or supplied by the muscles in the immediate area instead of the abdomen.
 
