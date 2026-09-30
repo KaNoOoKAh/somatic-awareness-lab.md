@@ -1,14 +1,20 @@
 Bio-Mechanical Mineral Activation & Proprioceptive RemappingLead Researcher:
 
-Framework Status: Active Research (Phase 1: Protocol & Baseline Mapping)Core Subject:
+Framework Status: Active Research (Phase 1: Protocol & Baseline Mapping)
+
+Core Subject:
 
 The interplay between mechanical force, directional pressure, emotional state, and cellular nutrient utilization in the human cranium and jaw.
+
+——-
 
 I. The Core Hypothesis"Nutrients and minerals within the human body do not operate solely on automated metabolic timelines. 
 
 Instead, their cellular entry, utilization, and structural integration require localized thresholds of physical force, directional pressure, and specific emotional/circulatory states. 
 
 Without meeting these targeted energy thresholds, minerals become biologically stagnant, manifesting as localized physical rigidity, muscle spasms, shaking, and uncoordinated motor control until a specific circumstantial or emotional catalyst restores systemic circulation and pressure." 
+
+——-
 
 II. Scientific Foundations & Peer-Reviewed Reference 
 
@@ -48,6 +54,8 @@ Sympathetic Hydrostatic Pressure Regulation. An emotional trigger floods the sys
 
 This sudden wave of fluid pressure physically forces open the mechanical Piezo1 channels, instantly restoring energy flow and motor coordination. 
 
+——-
+
 III. Active Research Protocol 
 
 Trial Date: September 29, 2026
@@ -70,6 +78,7 @@ Zero external force. Mandible at resting position.Subtle tightness in the jaw hi
 Nutrient Ingestion: [Input what you consumed, e.g., Salt + Pepper gateway].N/A (Absorption phase)Note any changes in localized heat, stomach acid generation, or saliva production.[Insert]Mechanical Force Phase: Conscious upper jaw isolation; lower jaw movement.
 
 Vector: [e.g., Forward & Downward]
-Pressure: [e.g., Light / Medium / Heavy][Insert]Emotional/Circulatory Trigger: [e.g., Hyper-focus, deep breath, or adrenaline shift].Fluid pressure increased via heart rate/intent.Did the shaking stop instantly? Did coordination return smoothly?
+Pressure: [e.g., Light / Medium / Heavy][Insert]
+Emotional/Circulatory Trigger: [e.g., Hyper-focus, deep breath, or adrenaline shift].
 
-Notes- Plasma. What does it take to move plasma into something. what type of force? How much force does it take to move plasma into a syringe? I’d have to research and do some math to figure out how much negative feedback/energy/contraction is needed in different areas of the body depending on size.
+Fluid pressure increased via heart rate/intent.Did the shaking stop instantly? Did coordination return smoothly?
