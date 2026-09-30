@@ -53,5 +53,4 @@ To test how a pen handles directional shifts, practice these three shapes and lo
 ---
 
 ## 4. Insights & Personal Preferences
-*(Use this section to write down your evolving conclusions about what works best for your hand anatomy and writing angle.)*
-
+* 
