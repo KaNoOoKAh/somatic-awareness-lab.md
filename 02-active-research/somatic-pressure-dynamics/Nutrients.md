@@ -2,6 +2,14 @@ Bio-Mechanical Mineral Activation & Proprioceptive RemappingLead Researcher:
 
 Framework Status: Active Research (Phase 1: Protocol & Baseline Mapping)
 
+#### Notes- Plasma: 
+
+- What does it take to move plasma into something. what type of force? 
+
+- How much force does it take to move plasma into a syringe?
+
+- How much negative feedback/energy and contraction is needed in different areas of the body depending on size.
+
 Core Subject:
 
 The interplay between mechanical force, directional pressure, emotional state, and cellular nutrient utilization in the human cranium and jaw.
