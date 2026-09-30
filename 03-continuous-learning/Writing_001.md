@@ -54,6 +54,8 @@ To test how a pen handles directional shifts, practice these three shapes and lo
 
 ## 4. Insights & Personal Preferences
 
+* It’s like my body thinks (knows) that in order to provide a certain area or muscle group with oxygen, nutrients, or energy. It 100% thinks my stomach or opu expanding and contracting is the reason it gets a supply of energy.
+  - This can be broken by expanding or contracting your stomach without releasing tension/control/pressure while inhaling, exhaling, and consciously directing the oxygen/co2 instead of unconsciously inhaling and exhaling without actual mentally acknowledging the true process and function.
 
 
 ——-
