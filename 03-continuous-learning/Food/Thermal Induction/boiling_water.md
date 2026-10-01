@@ -45,5 +45,6 @@ Depending on how long you wait, you will likely catch the pot in one of these th
 
    ### 6b. Pre-Experiment Hypothesis
 * **Early Dump (Superheated):** Rapid, violent energy transfer causes large steam bubbles to project aggressively outwards and upwards through the water column to the top.
-* **Delayed Dump (Cooled States):** Weakening energy transfer results in much smaller, gentler bubbles, eventually leading to completely silent mixing.
+  
+* **Delayed Dump (Cooled States):** Weakening energy transfer results in much smaller, gentler bubbles, eventually leading to completely silent mixing. Changing the thermal situation.
 
