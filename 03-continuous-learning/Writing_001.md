@@ -57,6 +57,11 @@ To test how a pen handles directional shifts, practice these three shapes and lo
 * It’s like my body thinks (knows) that in order to provide a certain area or muscle group with oxygen, nutrients, or energy. It 100% thinks my stomach or opu expanding and contracting is the reason it gets a supply of energy.
   - This can be broken by expanding or contracting your stomach without releasing tension/control/pressure while inhaling, exhaling, and consciously directing the oxygen/co2 instead of unconsciously inhaling and exhaling without actual mentally acknowledging the true process and function.
 
+Acknowledgement of the functions and movements might not be enough in order for people to actually understand what is needed in order to correctly give the body real instruction and purpose. “Breathe air in ans exhale gas out.”
+
+We would have to know and understand what flexing, tensing, contraction, relaxation, direction, control, and what concentration is actually doing for our bodies. 
+#### Side note: In Botany class today we learned the different process and functions of certain areas of leaves and stems.I will add in notes from the lecture in order to provide a damn good example of what I mean.
+
 
 ——-
 
