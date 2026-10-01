@@ -20,8 +20,10 @@ To observe how a metal pot stores and transfers its thermal energy *after* the p
 
 | Trial | Initial Heat Setting | Wait Time (Flame Off) | Water Starting State | Reaction on Impact (Sizzle, Bubbles, Steam) | Identified "Thermal Setting" |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **1** | | | Hot / Near-boiling | 12:35p.m| 15 seconds | Faucet/Resting | Big reaction
+| **1** | High | 15 seconds | Hot / Near-boiling | Violent eruption; large steam bubbles projected aggressively to the top with a loud hiss. | The Flash Zone (Superheated) |
+
 | **2** | | | Hot / Near-boiling | | |
+
 | **3** | | | Hot / Near-boiling | | |
 
 ---
