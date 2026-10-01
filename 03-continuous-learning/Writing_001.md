@@ -62,6 +62,8 @@ Acknowledgement of the functions and movements might not be enough in order for 
 We would have to know and understand what flexing, tensing, contraction, relaxation, direction, control, and what concentration is actually doing for our bodies. 
 #### Side note: In Botany class today we learned the different process and functions of certain areas of leaves and stems.I will add in notes from the lecture in order to provide a damn good example of what I mean.
 
+The reason for this is because when the environment shifts. Consumption might not actually be the main source of survival. Knowing how to start, stop, and maintain a function is probably going to give us a better chance of adaptation and evolution. Instead of looking for some water or a pill bottle. A certain leaf or herb would be better than a pill bottom or bottle of water.
+
 
 ——-
 
