@@ -4,6 +4,7 @@
 
 I believe transpiration and perspiration should be perceived and acknowledged as a process that should be in total control. Not caused by environmental or external influences or changes. 
 
+---
 
 A comparative analysis of standard biological models of sweat excretion versus an alternative theory of adaptive moisture reabsorption.
 
