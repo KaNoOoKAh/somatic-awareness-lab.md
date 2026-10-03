@@ -4,6 +4,7 @@ Related Content:
 
 https://github.com/KaNoOoKAh/web-infrastructure-diagnostics/blob/main/coding_paradigms.md
 
+* Any form of matter is data. Words, names, tones, acknowledgement, memory, visual recognition, and writing in any shape or form still has real live data in it. 
 * Psychological issues can be related to the tone, frequency, vibration, and pronunciation of an individual.
 * Sound is 100% known to travel and remain in the environment until it dissipates, gets used, or gets "lost" in the atmosphere/galaxy.
 * Different pronunciations in different languages could possibly be linked to many different types of psychological illnesses. Voices being heard by certain individuals could also be body specific or language specific. Every single organism makes noise, tones, frequencies, and vibrations in different ways.
