@@ -8,7 +8,8 @@ https://github.com/KaNoOoKAh/web-infrastructure-diagnostics/blob/main/coding_par
 * Sound is 100% known to travel and remain in the environment until it dissipates, gets used, or gets "lost" in the atmosphere/galaxy.
 * Different pronunciations in different languages could possibly be linked to many different types of psychological illnesses. Voices being heard by certain individuals could also be body specific or language specific. Every single organism makes noise, tones, frequencies, and vibrations in different ways.
 * Residual energy in the atmosphere or environment could be prone to following the common paths of least resistance.
-* Certain noises or voices might not even be really talking to someone. Even though many individuals would promise their lives on it. The sound/energy could be conforming into common words/ common frequencies. 
+* Certain noises or voices might not even be really talking to someone. Even though many individuals would promise their lives on it. The sound/energy could be conforming into common words/ common frequencies.
+* Organic matter and inorganic matter may not be what we truly think they are. Certain key factors may be influencing dormant behaviors in both the subject/matter and researcher/personnel responsible for the identification, logging, and care. This pertains to the materials, matter, and the individuals completing the visual/physical inspection of the nutrient or material. 
 
 Abstract
 
