@@ -34,4 +34,6 @@ Internal vs. External Signal Attribution: When sensory gating is altered, intern
 
 Conclusion
 
-Perceptual variations in hearing words or tones within environmental soundscapes result from a combination of native linguistic conditioning, atmospheric sound propagation, and the observer's physiological and emotional state.
+Perceptual variations in hearing words or tones within environmental soundscapes result from a combination of native linguistic conditioning, atmospheric sound propagation, and the observer's physiological and emotional state. These different states could play a huge part in attraction and acknowledgement. 
+
+Practicing the different somatic exercises in this repository has definitely increased physical and mental awareness and also the ability to feel different external and internal vibrations and frequencies that were not noticeable in any shape, feeling, way, or form when I wasnt practicing these abilities and when I do not actively select, control, and activate these abilities in order to give myself a real choice to live my life to the fullest. 
