@@ -4,7 +4,12 @@
 **Created:** October 03, 2026  
 **Status:** Active  
 **Focus:** Ink formulation parameters, typographic/graphemic micro-specifications, and the mechanical/fluid dynamics of dynamic pressure during mark formation. 
-**Semi-Focus:** Structuring of a letter, number, and character. Finding the correct formation/design for optimum ocular acknowledgement of the artificial and natural environments and ocular acknowledgment of the need to use different views or features (zoom)  
+
+**Semi-Focus:** 
+
+1. Structuring of a letter, number, and character. Finding the correct formation/design for optimum ocular acknowledgement of the artificial and natural environments and ocular acknowledgment of the need to use different views or features (zoom). 
+
+2. Is the formation/drawing of a character one of the factors in ocular/health deficiencies. 
 
 ---
 
