@@ -11,7 +11,8 @@
 
 2. Is the formation/drawing of a character one of the factors in ocular/health deficiencies that is causing mental and physical stress on specific identification functions.
 
-3. Does knowledge of the creation of the characters or material being viewed have any influence on the specific view the material should be looked at in? 
+3. Does knowledge of the creation of the characters or material being viewed have any influence on the specific magnification or energy application that should be applied in order to correctly match the frequency/
+4. wave length
 
 ---
 
