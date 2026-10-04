@@ -7,15 +7,23 @@
 
 **Semi-Focus:** 
 
-1. Structuring of a letter, number, and character. Finding the correct formation/design for optimum ocular acknowledgement of the artificial and natural environments and ocular acknowledgment of the need to use different views or features (zoom). 
+1. Structuring of a letter, number, and character. Finding the correct formation/design for optimum ocular acknowledgement of the artificial and natural environments, and ocular acknowledgment of the need to use different views or features (zoom).
 
-2. Is the formation/drawing (small dots,lines,big dots,small numbers) that can be created in different designs for a single character, be one of the factors in ocular/health deficiencies that is causing mental and physical stress on specific identification functions.
+<br>
 
-3. Does knowledge of the creation of the characters or material being viewed have any influence on the specific magnification or amount of energy to be applied visually in order to correctly match the frequency/wave length/strength that is needed to view the beautiful world we all live in safely and efficiently. 
+2. Is the formation/drawing (small dots, lines, big dots, small numbers) that can be created in different designs for a single character one of the factors in ocular/health deficiencies that is causing mental and physical stress on specific identification functions?
 
-3.1. How the specific magnification and energy application in vision relates to hearing. 
+<br>
 
-3.2 Researching the actual amounts of force/energy/power to correctly look at something. Identifying, mentally noting, and physically taking notes, is needed to correctly identify, isolate, and learn to correctly apply control, direction, and power. 
+3. Does knowledge of the creation of the characters or material being viewed have any influence on the specific magnification or amount of energy to be applied visually in order to correctly match the frequency, wavelength, or strength that is needed to view the beautiful world we all live in safely and efficiently?
+
+<br>
+
+3.1. How does the specific magnification and energy application in vision relate to hearing?
+
+<br>
+
+3.2. Researching the actual amounts of force, energy, and power required to correctly look at something. Identifying, mentally noting, and physically taking notes are needed to correctly identify, isolate, and learn to apply control, direction, and power correctly.
 
 ---
 
