@@ -15,7 +15,7 @@
 
 3.1. How the specific magnification and energy application in vision relates to hearing. 
 
-3.2 Researching the actual amounts of force/energy/power to correctly look at something. Identifying, mentally noting, and physically taking notes is needed to correctly identify, isolate, and learn how to correctly apply control, direction, and power. 
+3.2 Researching the actual amounts of force/energy/power to correctly look at something. Identifying, mentally noting, and physically taking notes, is needed to correctly identify, isolate, and learn to correctly apply control, direction, and power. 
 
 ---
 
