@@ -11,7 +11,7 @@
 
 <br>
 
-2. Is the formation/drawing (small dots, lines, big dots, small numbers) that can be created in different designs for a single character one of the factors in ocular/health deficiencies that is causing mental and physical stress on specific identification functions?
+2. Is the formation/drawing (small dots, lines, big dots, small numbers(Yes all data is "supposedly" english numerals somehow)) that can be created in different designs for a single character one of the factors in ocular/health deficiencies that is causing mental and physical stress on specific identification functions?
 
 <br>
 
