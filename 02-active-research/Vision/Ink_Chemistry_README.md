@@ -1,4 +1,4 @@
-# Active Research File: Ink Chemistry, Character Spec, & Dynamic Pressure Dynamics
+#### Ink Chemistry, Character Spec, & Dynamic Pressure Dynamics
 
 **Document ID:** RES-INK-001  
 **Created:** October 03, 2026  
@@ -11,11 +11,13 @@
 
 <br>
 
-2. Is the formation/drawing (small dots, lines, big dots, small numbers) that can be created in different designs for a single character one of the factors in ocular/health deficiencies that is causing mental and physical stress on specific identification functions?
+2. Is the formation/drawing (small dots, lines, big dots, small numbers) that can be created and organized in different designs and patterns in a single character one of the factors causing ocular and health deficiencies resulting in mental degradation and the inability to properly maintain a degree of good health. 
 
 <br>
 
-3. Does knowledge of the creation of the characters or material being viewed have any influence on the specific magnification or amount of energy to be applied visually in order to correctly match the frequency, wavelength, or strength that is needed to view the beautiful world we all live in safely and efficiently?
+3. Learning the exact steps taken in the creation of each character or during the construction of the viewing material being observed have any influence on the specific magnification or amount of energy to be applied visually in order to correctly match the frequency, wavelength, or strength that is needed to view the beautiful world we all live in safely and efficiently?
+
+   - Is there a certain amount of information on eye sight that has been properly researched, tested, and verified? Is the information updated and checked to make sure the accuracy is still on point with the current environment/atmosphere and up to date with every single body/organism? What happens when the individuals the information pertains to do not create, initiate, sustain, and maintain the exact same neural and somatic pathways and networks? 
 
 <br>
 
