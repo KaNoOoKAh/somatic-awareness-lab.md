@@ -9,7 +9,9 @@
 
 1. Structuring of a letter, number, and character. Finding the correct formation/design for optimum ocular acknowledgement of the artificial and natural environments and ocular acknowledgment of the need to use different views or features (zoom). 
 
-2. Is the formation/drawing of a character one of the factors in ocular/health deficiencies. 
+2. Is the formation/drawing of a character one of the factors in ocular/health deficiencies that is causing mental and physical stress on specific identification functions.
+
+3. Does knowledge of the creation of the characters or material being viewed have any influence on the specific view the material should be looked at in? 
 
 ---
 
