@@ -7,7 +7,15 @@
 
 ---
 
-## Obj 1: Catalog physical and chemical properties of target inks (viscosity, surface tension, pigment particle size, binder ratio).Obj 2: Map character/symbol spec metrics (point size, stroke width, bounding box dimensions, font geometry) to fluid flow performance.Obj 3: Model and measure dynamic pressure ($\Delta P$) and shearing forces exerted by the tool onto the substrate during real-time creation.Obj 4: Evaluate visual acuity and resolution shifts when applying directional energy control ($V_{\downarrow}^{-}$) to characters rendered via varying technological and manual methods.Obj 5: Analyze perceptual and optical differentials between standard carbon black ($B_0$) and synthesized composite black ($B_{\text{mix}}$) across split-symbol test targets.me creation.
+## Obj 1: Catalog physical and chemical properties of target inks (viscosity, surface tension, pigment particle size, binder ratio).
+
+## Obj 2: Map character/symbol spec metrics (point size, stroke width, bounding box dimensions, font geometry) to fluid flow performance.
+
+## Obj 3: Model and measure dynamic pressure ($\Delta P$) and shearing forces exerted by the tool onto the substrate during real-time creation.
+
+## Obj 4: Evaluate visual acuity and resolution shifts when applying directional energy control ($V_{\downarrow}^{-}$) to characters rendered via varying technological and manual methods.
+
+## Obj 5: Analyze perceptual and optical differentials between standard carbon black ($B_0$) and synthesized composite black ($B_{\text{mix}}$) across split-symbol test targets.me creation.
 
 ---
 
