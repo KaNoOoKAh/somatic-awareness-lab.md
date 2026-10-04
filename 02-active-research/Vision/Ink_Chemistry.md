@@ -3,7 +3,8 @@
 **Document ID:** RES-INK-001  
 **Created:** October 03, 2026  
 **Status:** Active  
-**Focus:** Ink formulation parameters, typographic/graphemic micro-specifications, and the mechanical/fluid dynamics of dynamic pressure during mark formation.
+**Focus:** Ink formulation parameters, typographic/graphemic micro-specifications, and the mechanical/fluid dynamics of dynamic pressure during mark formation. 
+**Semi-Focus:** Structuring of a letter, number, and character. Finding the correct formation/design for optimum ocular acknowledgement of the artificial and natural environments and ocular acknowledgment of the need to use different views or features (zoom)  
 
 ---
 
