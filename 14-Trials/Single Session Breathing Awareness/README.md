@@ -61,7 +61,7 @@ Observations:
 
 During Trial 
 
-* Awareness of the property/yard hit me in my face
+* Awareness of the property/yard/environment hit me in my face
 * Decided to make a nutritious tea not a "compost" tea that I would drink
 * Hydrated the compost piles and foliar sprayed the plants
 
@@ -81,7 +81,11 @@ then the possible options and movements may be far greater than what is normally
 
 From my perspective, maintaining awareness may require continual reminders and deliberate effort. The more consistently awareness is maintained, the more opportunities there may be to notice alternative patterns of movement, sensation, attention, and control.
 
-Conclusion
+Conclusion 
+
+The amount of energy I need to direct to certain areas may not be the same as others are currently. The amount of effort and concentration it might take for me to exert in order to produce a true mental image may not be the same as others. 
+
+I will keep trying no matter what the outcomes of these trials say or supposedly prove. 
 
 Was maintaining a complete mental image of the body more difficult than expected?
 
