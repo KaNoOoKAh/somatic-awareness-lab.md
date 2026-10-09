@@ -95,6 +95,7 @@ What areas consistently fell outside awareness:
 * functions to aid in continued movement
 * process to sustain movement
 * true acknowledgement of each process and function
+* knowledge to aid me in becoming aware of what is needed to sustain myself and every single part of my body.  
 
 Observation:
 
