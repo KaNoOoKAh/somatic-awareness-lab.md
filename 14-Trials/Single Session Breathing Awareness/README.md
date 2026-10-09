@@ -49,8 +49,9 @@ Start Time: 10:45a.m.	End Time: 11:52a.m.	Duration: 1 hour +
 
 Notes: 
 
-* Stay mentally aware of all internal parts first. Test this out to see if your mind is able to properly analyze and create a true map of the body if connected and given enough energy/nutrients/help.
-* Does the image became true and more pronounced when the mind has control? 
+ Stay mentally aware of all internal parts first. Test this out to see if your mind is able to properly analyze and create a true map of the body if connected and given enough energy/nutrients/help.
+
+ Does the image became true and more pronounced when the mind has control? 
 
 
 Observations: 
