@@ -3,7 +3,7 @@ Date: 2026-10-09
 
 Purpose
 
-This trial is designed to explore whether the amount of conscious effort commonly devoted to the body is sufficient. The focus is not on changing the breath itself, but on maintaining complete awareness of the body while breathing normally.
+This trial is designed to explore whether the amount of conscious effort commonly devoted to the body is sufficient. The focus is not on changing the breath itself, but on maintaining complete awareness of the body while breathing normally. 
 
 Duration
 
