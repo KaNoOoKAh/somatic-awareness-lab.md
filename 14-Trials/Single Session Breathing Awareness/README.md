@@ -89,7 +89,7 @@ I will keep trying no matter what the outcomes of these trials say or supposedly
 
 Was maintaining a complete mental image of the body more difficult than expected?
 
-- Maintaining a mental image is not hard when actively sending the information to the brain. 
+- Maintaining a mental image is not hard when actively sending the information to the brain. The moment that I stopped relaying the information to the brain. The mental image would not change the specific area.  
 
 Did the body require more effort and attention than initially assumed? 
 
