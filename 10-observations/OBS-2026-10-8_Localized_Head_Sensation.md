@@ -5,7 +5,9 @@ Location: Oahu, Hawaii
 
 Related Content: 
 
-https://github.com/KaNoOoKAh/somatic-awareness-lab.md/blob/main/10-observations/OBS-2026-10-7_facial_pressure.md
+https://github.com/KaNoOoKAh/somatic-awareness-lab.md/blob/main/10-observations/OBS-2026-10-7_facial_pressure.md 
+
+https://github.com/KaNoOoKAh/somatic-awareness-lab.md/blob/main/10-observations/09.27.2026-somatic_block_urinary_sensation.md
 
  Context: Attending a lecture while attempting to maintain attention on the speaker.
 
