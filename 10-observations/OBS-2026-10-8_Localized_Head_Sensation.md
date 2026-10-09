@@ -34,7 +34,10 @@ Context: Following a second repetition of the focused-attention exercise. All in
 
 Observation: I concentrated attention on a specific region near the rear-left side of my head and used that area as the primary point of focus while directing head and upper-body movements. During the exercise, I was able to maintain awareness of the selected location while moving my head in multiple directions.
 
-After completing the exercise and entering a relaxed state, I continued to notice activity associated with the previously focused area. Rather than a distinct sensation, it was experienced as a feeling of physical stimulation or activity. The perceived activity appeared to move outward from the focused region in different directions. The movement of this perceived activity seemed to be unrelated to the movements of the head. The distinct sensation seemed to be moving in its own directions. If im being an honest it feels like two different sensations. One is broader more consistent with a wider range. The other seems to be more specific with intent like its following different paths...
+After completing the exercise and entering a relaxed state, I continued to notice activity associated with the previously focused area. Rather than a distinct sensation, it was experienced as a feeling of physical stimulation or activity. The perceived activity appeared to move outward from the focused region in different directions. 
+
+The movement of this perceived activity seemed to be unrelated to the movements of the head. The distinct sensation seemed to be moving in its own directions. If im being an honest it feels like two different sensations. One is broader more consistent with a wider range. The other seems to be more specific with intent like its following different paths...
+
 Additional Notes:
 
 Observation recorded immediately after completion of the exercise.
