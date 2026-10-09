@@ -1,105 +1,112 @@
-📋 Single-Day Breathing Awareness Trial
+📋Single-Day Breathing Awareness Trial
+
 Date: 2026-10-09
 
 Purpose
 
-This trial is designed to explore whether the amount of conscious effort commonly devoted to the body is sufficient. The focus is not on changing the breath itself, but on maintaining complete awareness of the body while breathing normally. 
+This trial was designed to explore whether the level of conscious attention commonly directed toward the body is sufficient for maintaining a complete mental representation of bodily awareness. The objective was not to alter breathing patterns, but to maintain awareness of the body while breathing naturally.
 
-Duration
+Planned Duration
 
 20 Minutes
 
+Actual Duration
+
+Start Time: 10:45 a.m.
+ End Time: 11:52 a.m.
+ Actual Duration: Approximately 1 hour and 7 minutes
+
 Method
 
-For 20 minutes, I will:
+For the duration of the session, I:
 
-Breathe regularly and naturally.
-
-Create a complete mental image of my body.
-
-Maintain and sustain this mental image throughout the session.
-
-Observe any changes in awareness, sensation, effort, attention, or control.
-
-Record observations without attempting to force specific outcomes.
-
+Breathed naturally without attempting to control or modify my breathing.
+Constructed a complete mental image of my body.
+Attempted to maintain this mental image continuously.
+Observed shifts in awareness, sensation, effort, attention, and perceived control.
+Recorded observations without intentionally seeking specific outcomes.
 Variables Being Observed
-
 Awareness
-
 Was a complete mental image of the body maintained?
-
-Were certain areas easier or harder to keep within awareness?
-
+Were certain areas easier or more difficult to keep within awareness?
 Effort
 How much mental effort was required?
-Did the effort increase or decrease over time?
-
+Did the required effort increase or decrease over time?
 Sensation
 Did new sensations become noticeable?
 Did previously unnoticed areas become more apparent?
-
 Attention Drift
 How often did attention wander?
 How long could the mental image be maintained before losing detail?
+Trial Notes
+Pre-Trial Thoughts
+Maintain awareness of as many internal bodily regions as possible.
+Explore whether sustained attention improves the accuracy or detail of the body's mental representation.
+Observe whether a mental image becomes more vivid or defined when greater attention is directed toward it.
 
-Trial Log
+Observations
 
-Start Time: 10:45a.m.	End Time: 11:52a.m.	Duration: 1 hour +	
+General Observations
 
-Notes: 
+I observed that this exercise felt difficult to evaluate objectively because maintaining bodily awareness during breathing is already a common practice for me.
+From an experimental perspective, I recognize that prior familiarity with this practice may have influenced the outcome and reduced the novelty of the trial.
 
- Stay mentally aware of all internal parts first. Test this out to see if your mind is able to properly analyze and create a true map of the body if connected and given enough energy/nutrients/help.
+During Trial
 
- Does the image became true and more pronounced when the mind has control? 
+Awareness frequently expanded beyond the body to include the surrounding property, yard, and environment.
+I decided to prepare a nutritious tea during the session.
+I hydrated compost piles and applied a foliar spray to plants while maintaining varying levels of awareness.
 
+Post-Trial
 
-Observations: 
+I concluded that my attention may currently be more effectively directed toward personal development and direct observation rather than attempting to influence the awareness of others.
 
-* I observed that I started to feel retarded because I already do this while breathing more than the average person. 
-* Yes I do understand from a lab perspective I failed. I do. 
-
-
-During Trial 
-
-* Awareness of the property/yard/environment hit me in my face
-* Decided to make a nutritious tea not a "compost" tea that I would drink
-* Hydrated the compost piles and foliar sprayed the plants
-
-Post-Trial 
-
-* I'm pretty sure I need to concentrate on other things instead of attempting to bring awareness to others.
-* Realization that the ability to acknowledge and identify anything is strictly limited to the organisms skill and not mine. 
-
+I reflected on the possibility that perception and recognition are constrained by the capabilities and limitations of the individual organism rather than by intention alone.
 Personal Reflection
 
-I think that as long as areas of the mind and body have:
+I think that if areas of the mind and body possess:
 
-the energy to move a certain way,
-the knowledge of which way is which and where those directions are located,
-and the courage and willingness to try something different or new,
-then the possible options and movements may be far greater than what is normally expressed.
+The energy required for movement or action,
+Knowledge of possible directions or alternatives,
+The willingness to attempt something new,
 
-From my perspective, maintaining awareness may require continual reminders and deliberate effort. The more consistently awareness is maintained, the more opportunities there may be to notice alternative patterns of movement, sensation, attention, and control.
+then the range of potential actions and responses may be much greater than what is normally expressed.
 
-Conclusion 
+From my perspective, maintaining awareness requires continual reminders and deliberate effort. The more consistently awareness is sustained, the more opportunities there may be to observe alternative patterns of movement, sensation, attention, and control.
 
-The amount of energy I need to direct to certain areas may not be the same as others currently. The amount of effort and concentration it might take for me to exert in order to produce a true mental image may not be the same as others. 
+Conclusion
 
-I will keep trying no matter what the outcomes of these trials say or supposedly prove. 
+The amount of energy and attention required to maintain awareness of specific areas may vary between individuals. Likewise, the effort required to create and maintain a detailed mental image of the body may differ substantially from person to person.
+
+Regardless of the outcome of these trials, I intend to continue exploring these observations and documenting the results.
 
 Was maintaining a complete mental image of the body more difficult than expected?
 
-- Maintaining a mental image is not hard when actively sending the information to the brain. The moment that I stopped relaying the information to the brain. The mental image would not change the specific area.  
+Observation:
 
-Did the body require more effort and attention than initially assumed? 
+Maintaining a mental image was not particularly difficult while actively directing attention toward bodily information. However, when attention was no longer consciously maintained, the mental representation of specific areas tended to become less detailed or stop changing.
 
-- The only effort required of the body was to feel. I can 100% feel signals, data, information, or activity. It feels like radio waves that im able to control. 
+The primary effort appeared to involve maintaining sensation and awareness. I consistently perceived internal signals, bodily activity, and sensory input, which often felt persistent and readily accessible to attention.
 
-What areas consistently fell outside awareness? 
+What areas consistently fell outside awareness: 
 
-* The moment I let my environment dictate how I felt. I dropped all personal awareness. 
+* internal areas
+* organs
+* functions to aid in continued movement
+* process to sustain movement
+* true acknowledgement of each process and function
 
-What observations should be explored in future trials? 
+Observation:
 
+When attention became heavily focused on external environmental factors, awareness of my own internal state noticeably decreased.
+
+What observations should be explored in future trials?
+
+Observation:
+
+Continue exploring without rigid expectations and allow future observations to determine the direction of subsequent trials.
+
+Trial Summary
+
+The trial began as an investigation into maintaining a complete mental image of the body while breathing naturally. Although awareness was initially directed inward, attention frequently expanded toward environmental observations and routine activities. The session suggested that sustained bodily awareness requires active maintenance and that external engagement can quickly reduce internal awareness. Future trials may benefit from stricter environmental controls and a fixed duration to improve consistency and comparison across sessions.
 * Lets just explore. 
