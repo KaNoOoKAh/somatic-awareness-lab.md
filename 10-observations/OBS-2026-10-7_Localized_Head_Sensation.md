@@ -16,7 +16,11 @@ Notes:
 Mental imagery of shadow boxing was present.
 Head and upper body movements accompanied the imagery.
 Repeated sensations were perceived in specific posterior head regions.
-No conclusion regarding the source of the sensations.
+No conclusion regarding the source of the sensations. 
+
+Important Note: 
+
+The only other times I have been able to reproduce the same type of sensation is either while contracting, directing, and controlling the sensation produced from urinating and defecating. The other activity that produced the same type of sensation was the activity I completed yesterday. The link is provided above in related content. 
 
 ---
 
