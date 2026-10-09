@@ -56,7 +56,7 @@ Notes:
 Observations: 
 
 * I observed that I started to feel retarded because I already do this while breathing more than the average person. 
-
+* Yes I do understand from a lab perspective I failed. I do. 
 
 
 During Trial 
