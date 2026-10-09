@@ -89,8 +89,16 @@ I will keep trying no matter what the outcomes of these trials say or supposedly
 
 Was maintaining a complete mental image of the body more difficult than expected?
 
-Did the body require more effort and attention than initially assumed?
+- Maintaining a mental image is not hard when actively sending the information to the brain. 
 
-What areas consistently fell outside awareness?
+Did the body require more effort and attention than initially assumed? 
 
-What observations should be explored in future trials?
+- The only effort required of the body was to feel. I can 100% feel signals, data, information, or activity. It feels like radio waves that im able to control. 
+
+What areas consistently fell outside awareness? 
+
+* The moment I let my environment dictate how I felt. I dropped all personal awareness. 
+
+What observations should be explored in future trials? 
+
+* Not sure in all honesty. 
