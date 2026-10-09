@@ -83,7 +83,7 @@ From my perspective, maintaining awareness may require continual reminders and d
 
 Conclusion 
 
-The amount of energy I need to direct to certain areas may not be the same as others are currently. The amount of effort and concentration it might take for me to exert in order to produce a true mental image may not be the same as others. 
+The amount of energy I need to direct to certain areas may not be the same as others currently. The amount of effort and concentration it might take for me to exert in order to produce a true mental image may not be the same as others. 
 
 I will keep trying no matter what the outcomes of these trials say or supposedly prove. 
 
