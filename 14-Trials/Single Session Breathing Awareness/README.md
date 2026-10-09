@@ -45,7 +45,7 @@ How long could the mental image be maintained before losing detail?
 
 Trial Log
 
-Start Time: 10:45a.m.	End Time: 11:05a.m.	Duration: 20 minutes	
+Start Time: 10:45a.m.	End Time: 11:52a.m.	Duration: 1 hour +	
 
 Notes: 
 
@@ -55,10 +55,20 @@ Notes:
 
 Observations: 
 
+* I observed that I started to feel retarded because I already do this while breathing more than the average person. 
 
-During Trial
 
-Post-Trial
+
+During Trial 
+
+* Awareness of the property/yard hit me in my face
+* Decided to make a nutritious tea not a "compost" tea that I would drink
+* Hydrated the compost piles and foliar sprayed the plants
+
+Post-Trial 
+
+* I'm pretty sure I need to concentrate on other things instead of attempting to bring awareness to others.
+* Realization that the ability to acknowledge and identify anything is strictly limited to the organisms skill and not mine. 
 
 Personal Reflection
 
