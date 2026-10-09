@@ -95,7 +95,8 @@ What areas consistently fell outside awareness:
 * functions to aid in continued movement
 * process to sustain movement
 * true acknowledgement of each process and function
-* knowledge to aid me in becoming aware of what is needed to sustain myself and every single part of my body.  
+* mental stability and physical awareness to aid me in becoming aware of what is needed to sustain myself and every single part of my body. I am getting confused while trying to use book knowledge to help me gain awareness of each action and process. Which is stopping me from becoming truly symbiotic..,
+* 
 
 Observation:
 
