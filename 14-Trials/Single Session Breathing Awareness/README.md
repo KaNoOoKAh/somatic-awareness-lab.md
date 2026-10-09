@@ -101,4 +101,4 @@ What areas consistently fell outside awareness?
 
 What observations should be explored in future trials? 
 
-* Not sure in all honesty. 
+* Lets just explore. 
