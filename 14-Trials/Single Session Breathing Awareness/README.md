@@ -45,11 +45,16 @@ How long could the mental image be maintained before losing detail?
 
 Trial Log
 
-Start Time	End Time	Duration	Notes
+Start Time: 10:45a.m.	End Time: 11:05a.m.	Duration: 20 minutes	
 
-20 Minutes	
+Notes: 
 
-Observations
+* Stay mentally aware of all internal parts first. Test this out to see if your mind is able to properly analyze and create a true map of the body if connected and given enough energy/nutrients/help.
+* Does the image became true and more pronounced when the mind has control? 
+
+
+Observations: 
+
 
 During Trial
 
