@@ -87,11 +87,12 @@ I am uncertain whether that focus should be centered primarily on the brain, the
 This does not suggest that the brain is unnecessary. Rather, it raises the possibility that perception, decision-making, and behavior may involve multiple interacting systems operating both within and outside of conscious awareness.
 
 During this trial, I noticed that certain actions, perceptions, and responses seemed to occur automatically, while others required deliberate attention and effort. Future trials may explore the relationship between conscious focus, bodily awareness, automatic behavior, and perceived control.
+
 Observation:
 
-Maintaining a mental image was not particularly difficult while actively directing attention toward bodily information. However, when attention was no longer consciously maintained, the mental representation of specific areas tended to become less detailed or stop changing.
+The primary effort involved maintaining continuous awareness and actively scanning the body. Throughout the session, I focused on perceiving sensations, internal activity, and bodily signals while repeatedly directing attention through different regions and back toward the brain.
 
-The primary effort appeared to involve maintaining sensation and awareness. I consistently perceived internal signals, bodily activity, and sensory input, which often felt persistent and readily accessible to attention.
+From my subjective perspective, this process felt similar to sending energy/information from various parts of the body to a central (Brain) point of awareness. Whether this reflects an actual physiological process or a perception created through focused attention remains unknown, but the technique appeared to help maintain a more complete mental image during the trial.
 
 What areas consistently fell outside awareness: 
 
