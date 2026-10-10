@@ -31,4 +31,4 @@ Create one sub-folder per project, e.g.:
 | `injection-observations/` | Post-injection somatic awareness notes |
 | `respiration/` | Respiratory pathway and immersion-related studies |
 | `somatic-pressure-dynamics/` | Pressure-shift mapping and related cross-species observations |
-| `tooth-percussion/` | Tooth percussion and pain-localization research |
+| `oral-and-maxillofacial/` | Mouth, jaw, teeth, and gums research |
