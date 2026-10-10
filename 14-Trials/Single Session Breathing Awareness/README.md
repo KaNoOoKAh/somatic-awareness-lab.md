@@ -74,14 +74,19 @@ then the range of potential actions and responses may be much greater than what 
 
 From my perspective, maintaining awareness requires continual reminders and deliberate effort. The more consistently awareness is sustained, the more opportunities there may be to observe alternative patterns of movement, sensation, attention, and control.
 
-Conclusion
+#### Conclusion
 
 The amount of energy and attention required to maintain awareness of specific areas may vary between individuals. Likewise, the effort required to create and maintain a detailed mental image of the body may differ substantially from person to person.
 
 Regardless of the outcome of these trials, I intend to continue exploring these observations and documenting the results.
 
-Was maintaining a complete mental image of the body more difficult than expected?
+I concluded that my attention and effort appear to be most effective when directed toward a single focus rather than being distributed across multiple targets simultaneously.
 
+I am uncertain whether that focus should be centered primarily on the brain, the body, or another aspect of conscious awareness. Based on my observations, many behaviors can occur without constant deliberate attention to conscious thought processes.
+
+This does not suggest that the brain is unnecessary. Rather, it raises the possibility that perception, decision-making, and behavior may involve multiple interacting systems operating both within and outside of conscious awareness.
+
+During this trial, I noticed that certain actions, perceptions, and responses seemed to occur automatically, while others required deliberate attention and effort. Future trials may explore the relationship between conscious focus, bodily awareness, automatic behavior, and perceived control.
 Observation:
 
 Maintaining a mental image was not particularly difficult while actively directing attention toward bodily information. However, when attention was no longer consciously maintained, the mental representation of specific areas tended to become less detailed or stop changing.
@@ -102,8 +107,6 @@ Observation:
 
 When attention became heavily focused on external environmental factors, awareness of my own internal state noticeably decreased.
 
-What observations should be explored in future trials?
-
 Observation:
 
 Continue exploring without rigid expectations and allow future observations to determine the direction of subsequent trials.
@@ -111,4 +114,5 @@ Continue exploring without rigid expectations and allow future observations to d
 Trial Summary
 
 The trial began as an investigation into maintaining a complete mental image of the body while breathing naturally. Although awareness was initially directed inward, attention frequently expanded toward environmental observations and routine activities. The session suggested that sustained bodily awareness requires active maintenance and that external engagement can quickly reduce internal awareness. Future trials may benefit from stricter environmental controls and a fixed duration to improve consistency and comparison across sessions.
-* Lets just explore. 
+
+
