@@ -111,7 +111,6 @@ Perhaps the most humbling realization is that being alive involves countless pro
 
 Because of this, I am developing a growing appreciation for the body rather than merely trying to control it. Awareness may not be about domination, control, or forcing change. It may instead be about learning to observe, understand, cooperate with, and appreciate the systems that already sustain life.
 
-If there is one lesson worth sharing from this trial, it is that awareness appears to develop through practice. The goal may not be to achieve perfect awareness in a single session, but to become slightly more aware today than yesterday. Small improvements, repeated consistently, may ultimately reveal more than any single breakthrough experience.
 --- 
 "Awareness may not be about domination, control, or forcing change. It may instead be about learning to observe, understand, cooperate with, and appreciate the systems that already sustain life.
 
