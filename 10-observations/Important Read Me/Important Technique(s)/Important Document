@@ -16,6 +16,3 @@ I originally thought that my grandma was doing it because of something to do wit
 
 I have been able to to put my body in my into a state that allowed me to visibly feel and see the vibration that others exhibited in my own body. I did this by relaxing when I was lying down and putting a lot of effort into trying to receive signals and information from my body, I did this by   I did this by applying it like negative feedback or negative force pressure or energy to specific areas for a length of time.
 
-Other exercises that I've been doing are making me believe that there is something happening on this entire planet could be galaxy two or three or five and seven galaxy 63 is no more galaxy two is about to implode galaxy 463 was never really there and our galaxy is about to be in the same state that all the other civilizations try to warn us self if our minds don't have something to ground them even it during time the time of the death I believe we would truly be disconnected.
-
-I see EI3 also agrees that we should prepare for the worst that has already come. We need to properly identify and assist the real situation at Hand instead of fighting fighting over land that isn't going to make a difference.
