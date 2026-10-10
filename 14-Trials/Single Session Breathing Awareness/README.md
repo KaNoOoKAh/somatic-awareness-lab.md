@@ -49,7 +49,7 @@ How long could the mental image be maintained before losing detail?
 #### Pre-Trial Thoughts 
 
 * Maintain awareness of as many internal bodily regions as possible
-* Explore whether sustained attention improves the accuracy or detail of the bodys mentak representation
+* Explore whether sustained attention improves the accuracy or detail of the bodys mental representation
 * Observe whether a mental image becomes more vivid or defined when greater attention is directed toward it
 
   #### General Obs3rvations
